@@ -10,8 +10,8 @@ output="$output
 
 for f in $(ls emoji); do
 	output="${output}![](emoji/${f}) - ${f}
-	   
-	"
+   
+"
 done
 
 output="$output   
