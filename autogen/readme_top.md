@@ -19,4 +19,4 @@ Each emoji has a small version (roughly 11x11px) and a large version (rougly 18x
 The image filename should follow the format 'pebble-emoji-`Emoji Name`-`sizecode`-`dimensions`.png'   
 
 sizecode is `sm` for small, `lg` for large.   
-For example the large star emoji file with a size of 18x18px would be called `pebble-emoji-start-lg-18x18.png`
+For example the large star emoji file with a size of 18x18px would be called `pebble-emoji-star-lg-18x18.png`
