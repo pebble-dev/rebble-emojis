@@ -4,12 +4,13 @@ output="$(cat autogen/readme_top.md)"
 
 output="$output
 
-#Current Emojis
+# Current Emojis
 
 "
 
 for f in $(ls emoji); do
 	output="${output}![](emoji/${f}) - ${f}
+	   
 	"
 done
 
