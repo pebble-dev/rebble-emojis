@@ -32,7 +32,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Commit readme
         run: |-
-          git add readme.md
           git config --global user.email "readmebot@rebble.io"
           git config --global user.name "README-bot"
           git add readme.md
