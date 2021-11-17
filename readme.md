@@ -10,5 +10,7 @@ To contribute, consider check out the emoji's thread in \#mobile-apps on the [Re
 
 Each emoji has a small version (roughly 11x11px) and a large version (rougly 18x18px) and should be in png format.   
 
-The image filename should follow the format pebble-emoji-`Emoji Name`-`sizecode`-`dimensions`.png   
-sizecode is `sm` for small, `lg` for large. So for example the large star emoji file with a size of 18x18px would be called `pebble-emoji-start-lg-18x18.png`    
+The image filename should follow the format 'pebble-emoji-`Emoji Name`-`sizecode`-`dimensions`.png'   
+
+sizecode is `sm` for small, `lg` for large.   
+For example the large star emoji file with a size of 18x18px would be called `pebble-emoji-start-lg-18x18.png`    
