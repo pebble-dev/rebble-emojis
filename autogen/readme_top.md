@@ -1,22 +1,25 @@
 # Rebble Emojis
 
-This repo contains emoji bitmaps created by members of the Rebble community
+This contains [emoji](https://en.wikipedia.org/wiki/Emoji) [bitmaps](https://en.wikipedia.org/wiki/Bitmap) created by members of the [Rebble](https://rebble.io/) community. These will be used in [RebbleOS](https://github.com/pebble-dev/RebbleOS) or potentially a language pack for PebbleOS.
 
-These will be used in RebbleOS, or potentially a language pack for PebbleOS.
+Emoji files are in the `emojis` directory. All other files are to do with the auto-generating README file.
 
-Emoji files are in emojis/
+## Contributing
 
-All other folders are to do with the auto-generating readme file.
+Before contributing please consider viewing the [emoji thread](https://discord.com/channels/221364737269694464/902868168660353046) in the \#firmware channel on the [Rebble Discord server](https://rebble.io/discord).
 
-# Contributing
+Follow these steps to contribute:
 
-To contribute create a small and large png file with the emoji, with a filename that follows the convention detailed below.    
+1. Fork this repository
+1. Add emojis following the filename convention listed below
+1. Open a pull request
 
-Before you open a PR, consider viewing the emoji's thread in \#mobile-apps on the [Rebble discord server](https://rebble.io/discord).   
+## Filename Convention
 
-Each emoji has a small version (roughly 11x11px) and a large version (rougly 18x18px) and should be in png format.   
+Each emoji has a small version (roughly 11x11px) and a large version (roughly 18x18px) and should be in `PNG` format.
 
-The image filename should follow the format '`codepoint`-`sizecode`.png'   
+The image filename should follow the format '`codepoint`-`sizecode`.png'
 
-sizecode is `sm` for small, `lg` for large.   
-For example the large [star emoji](https://emojipedia.org/star/) file would be called `2B50-lg.png`
+The sizecodes are `sm` for small and `lg` for large.
+
+For example, the [star emoji](https://emojipedia.org/star) file in large would be called `2B50-lg.png`.
