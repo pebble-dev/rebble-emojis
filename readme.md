@@ -1,134 +1,101 @@
 # Rebble Emojis
 
-This repo contains emoji bitmaps created by members of the Rebble community
+This contains [emoji](https://en.wikipedia.org/wiki/Emoji) [bitmaps](https://en.wikipedia.org/wiki/Bitmap) created by members of the [Rebble](https://rebble.io/) community. These will be used in [RebbleOS](https://github.com/pebble-dev/RebbleOS) or potentially a language pack for PebbleOS.
 
-These will be used in RebbleOS, or potentially a language pack for PebbleOS.
+Emoji files are in the `emojis` directory. All other files are to do with the auto-generating README file.
 
-Emoji files are in emojis/
+## Contributing
 
-All other folders are to do with the auto-generating readme file.
+Before contributing please consider viewing the [emoji thread](https://discord.com/channels/221364737269694464/902868168660353046) in the \#firmware channel on the [Rebble Discord server](https://rebble.io/discord).
 
-# Contributing
+Follow these steps to contribute:
 
-To contribute create a small and large png file with the emoji, with a filename that follows the convention detailed below.    
+1. Fork this repository
+1. Add emojis following the filename convention listed below
+1. Open a pull request
 
-Before you open a PR, consider viewing the emoji's thread in \#mobile-apps on the [Rebble discord server](https://rebble.io/discord).   
+## Filename Convention
 
-Each emoji has a small version (roughly 11x11px) and a large version (rougly 18x18px) and should be in png format.   
+Each emoji has a small version (roughly 11x11px) and a large version (roughly 18x18px) and should be in `PNG` format.
 
-The image filename should follow the format 'pebble-emoji-`Emoji Name`-`sizecode`-`dimensions`.png'   
+The image filename should follow the format '`codepoint`-`sizecode`.png'
 
-sizecode is `sm` for small, `lg` for large.   
-For example the large star emoji file with a size of 18x18px would be called `pebble-emoji-star-lg-18x18.png`
+The sizecodes are `sm` for small and `lg` for large.
 
-# Current Emojis
+For example, the [star emoji](https://emojipedia.org/star) file in large would be called `2B50-lg.png`.
 
-![](emoji/pebble-emoji-100-lg-15x17.png) - pebble-emoji-100-lg-15x17.png
-   
-![](emoji/pebble-emoji-100-sm-12x13.png) - pebble-emoji-100-sm-12x13.png
-   
-![](emoji/pebble-emoji-check-lg-13x13png.png) - pebble-emoji-check-lg-13x13png.png
-   
-![](emoji/pebble-emoji-check-sm-11x11.png) - pebble-emoji-check-sm-11x11.png
-   
-![](emoji/pebble-emoji-cross-lg-13x13.png) - pebble-emoji-cross-lg-13x13.png
-   
-![](emoji/pebble-emoji-cross-sm-11x11.png) - pebble-emoji-cross-sm-11x11.png
-   
-![](emoji/pebble-emoji-drool-lg-16x19.png) - pebble-emoji-drool-lg-16x19.png
-   
-![](emoji/pebble-emoji-drool-sm-11x12.png) - pebble-emoji-drool-sm-11x12.png
-   
-![](emoji/pebble-emoji-excl-heart-lg-13x17.png) - pebble-emoji-excl-heart-lg-13x17.png
-   
-![](emoji/pebble-emoji-excl-heart-sm-11x14.png) - pebble-emoji-excl-heart-sm-11x14.png
-   
-![](emoji/pebble-emoji-exclamation-lg-15x18.png) - pebble-emoji-exclamation-lg-15x18.png
-   
-![](emoji/pebble-emoji-exclamation-sm-15x15.png) - pebble-emoji-exclamation-sm-15x15.png
-   
-![](emoji/pebble-emoji-explosion-lg-19x19.png) - pebble-emoji-explosion-lg-19x19.png
-   
-![](emoji/pebble-emoji-explosion-sm-15x15-2.png) - pebble-emoji-explosion-sm-15x15-2.png
-   
-![](emoji/pebble-emoji-eyeroll-lg-16x16.png) - pebble-emoji-eyeroll-lg-16x16.png
-   
-![](emoji/pebble-emoji-eyeroll-sm-13x11.png) - pebble-emoji-eyeroll-sm-13x11.png
-   
-![](emoji/pebble-emoji-fire-lg-16x16-4.png) - pebble-emoji-fire-lg-16x16-4.png
-   
-![](emoji/pebble-emoji-fire-sm-14x14-1.png) - pebble-emoji-fire-sm-14x14-1.png
-   
-![](emoji/pebble-emoji-flag-lg-16x16.png) - pebble-emoji-flag-lg-16x16.png
-   
-![](emoji/pebble-emoji-flag-sm-14x14.png) - pebble-emoji-flag-sm-14x14.png
-   
-![](emoji/pebble-emoji-furious-lg-18x16.png) - pebble-emoji-furious-lg-18x16.png
-   
-![](emoji/pebble-emoji-furious-sm-15x12.png) - pebble-emoji-furious-sm-15x12.png
-   
-![](emoji/pebble-emoji-glowing-star-lg-19x18.png) - pebble-emoji-glowing-star-lg-19x18.png
-   
-![](emoji/pebble-emoji-glowing-star-sm-14x12.png) - pebble-emoji-glowing-star-sm-14x12.png
-   
-![](emoji/pebble-emoji-hearts-head-sm-17x14.png) - pebble-emoji-hearts-head-sm-17x14.png
-   
-![](emoji/pebble-emoji-horns-lg-13x18.png) - pebble-emoji-horns-lg-13x18.png
-   
-![](emoji/pebble-emoji-horns-sm-11x15.png) - pebble-emoji-horns-sm-11x15.png
-   
-![](emoji/pebble-emoji-hug-hands-lg-18x16.png) - pebble-emoji-hug-hands-lg-18x16.png
-   
-![](emoji/pebble-emoji-hug-hands-sm-15x13.png) - pebble-emoji-hug-hands-sm-15x13.png
-   
-![](emoji/pebble-emoji-music-notes-lg-18x19.png) - pebble-emoji-music-notes-lg-18x19.png
-   
-![](emoji/pebble-emoji-music-notes-sm-16x14.png) - pebble-emoji-music-notes-sm-16x14.png
-   
-![](emoji/pebble-emoji-pleading-lg-16x16.png) - pebble-emoji-pleading-lg-16x16.png
-   
-![](emoji/pebble-emoji-pleading-sm-11x11.png) - pebble-emoji-pleading-sm-11x11.png
-   
-![](emoji/pebble-emoji-rofl-lg-16x16.png) - pebble-emoji-rofl-lg-16x16.png
-   
-![](emoji/pebble-emoji-rofl-sm-11x11.png) - pebble-emoji-rofl-sm-11x11.png
-   
-![](emoji/pebble-emoji-shake-lg-20x18.png) - pebble-emoji-shake-lg-20x18.png
-   
-![](emoji/pebble-emoji-shake-sm-13x13-1.png) - pebble-emoji-shake-sm-13x13-1.png
-   
-![](emoji/pebble-emoji-shamrock-lg-15x17.png) - pebble-emoji-shamrock-lg-15x17.png
-   
-![](emoji/pebble-emoji-shamrock-sm-13x15.png) - pebble-emoji-shamrock-sm-13x15.png
-   
-![](emoji/pebble-emoji-sparkles-lg-20x16.png) - pebble-emoji-sparkles-lg-20x16.png
-   
-![](emoji/pebble-emoji-sparkles-sm-13x13.png) - pebble-emoji-sparkles-sm-13x13.png
-   
-![](emoji/pebble-emoji-star-lg-19x18.png) - pebble-emoji-star-lg-19x18.png
-   
-![](emoji/pebble-emoji-star-sm-14x12.png) - pebble-emoji-star-sm-14x12.png
-   
-![](emoji/pebble-emoji-stars-head-lg-20x16.png) - pebble-emoji-stars-head-lg-20x16.png
-   
-![](emoji/pebble-emoji-stars-head-sm-15x11.png) - pebble-emoji-stars-head-sm-15x11.png
-   
-![](emoji/pebble-emoji-transgender-symbol-lg-15x16.png) - pebble-emoji-transgender-symbol-lg-15x16.png
-   
-![](emoji/pebble-emoji-transgender-symbol-sm-11x11.png) - pebble-emoji-transgender-symbol-sm-11x11.png
-   
-![](emoji/pebble-emoji-upside-down-lg-16x16.png) - pebble-emoji-upside-down-lg-16x16.png
-   
-![](emoji/pebble-emoji-upside-down-sm-11x11.png) - pebble-emoji-upside-down-sm-11x11.png
-   
-![](emoji/pebble-emoji-wacky-lg-16x17.png) - pebble-emoji-wacky-lg-16x17.png
-   
-![](emoji/pebble-emoji-wacky-sm-11x11.png) - pebble-emoji-wacky-sm-11x11.png
-   
-![](emoji/pebble-emoji-watch-lg-17x19.png) - pebble-emoji-watch-lg-17x19.png
-   
-![](emoji/pebble-emoji-watch-sm-17x17.png) - pebble-emoji-watch-sm-17x17.png
-   
-   
+## Current Emojis
 
-Readme autogenerated @ Fri Nov 19 18:37:22 UTC 2021
+| Emoji | Filename |
+|:-----:|----------|
+| ![Emoji of 1F440-lg.png](emoji/1F440-lg.png) | `1F440-lg.png` |
+| ![Emoji of 1F440-sm.png](emoji/1F440-sm.png) | `1F440-sm.png` |
+| ![Emoji of 1F480-lg.png](emoji/1F480-lg.png) | `1F480-lg.png` |
+| ![Emoji of 1F480-sm.png](emoji/1F480-sm.png) | `1F480-sm.png` |
+| ![Emoji of 1f31f-lg.png](emoji/1f31f-lg.png) | `1f31f-lg.png` |
+| ![Emoji of 1f31f-sm.png](emoji/1f31f-sm.png) | `1f31f-sm.png` |
+| ![Emoji of 1f337-lg.png](emoji/1f337-lg.png) | `1f337-lg.png` |
+| ![Emoji of 1f337-sm.png](emoji/1f337-sm.png) | `1f337-sm.png` |
+| ![Emoji of 1f338-lg.png](emoji/1f338-lg.png) | `1f338-lg.png` |
+| ![Emoji of 1f338-sm.png](emoji/1f338-sm.png) | `1f338-sm.png` |
+| ![Emoji of 1f33a-lg.png](emoji/1f33a-lg.png) | `1f33a-lg.png` |
+| ![Emoji of 1f33a-sm.png](emoji/1f33a-sm.png) | `1f33a-sm.png` |
+| ![Emoji of 1f340-lg.png](emoji/1f340-lg.png) | `1f340-lg.png` |
+| ![Emoji of 1f340-sm.png](emoji/1f340-sm.png) | `1f340-sm.png` |
+| ![Emoji of 1f3b6-lg.png](emoji/1f3b6-lg.png) | `1f3b6-lg.png` |
+| ![Emoji of 1f3b6-sm.png](emoji/1f3b6-sm.png) | `1f3b6-sm.png` |
+| ![Emoji of 1f3f3-lg.png](emoji/1f3f3-lg.png) | `1f3f3-lg.png` |
+| ![Emoji of 1f3f3-sm.png](emoji/1f3f3-sm.png) | `1f3f3-sm.png` |
+| ![Emoji of 1f4a5-lg.png](emoji/1f4a5-lg.png) | `1f4a5-lg.png` |
+| ![Emoji of 1f4a5-sm.png](emoji/1f4a5-sm.png) | `1f4a5-sm.png` |
+| ![Emoji of 1f4af-lg.png](emoji/1f4af-lg.png) | `1f4af-lg.png` |
+| ![Emoji of 1f4af-sm.png](emoji/1f4af-sm.png) | `1f4af-sm.png` |
+| ![Emoji of 1f525-lg.png](emoji/1f525-lg.png) | `1f525-lg.png` |
+| ![Emoji of 1f525-sm.png](emoji/1f525-sm.png) | `1f525-sm.png` |
+| ![Emoji of 1f5a-lg.png](emoji/1f5a-lg.png) | `1f5a-lg.png` |
+| ![Emoji of 1f5a-sm.png](emoji/1f5a-sm.png) | `1f5a-sm.png` |
+| ![Emoji of 1f643-lg.png](emoji/1f643-lg.png) | `1f643-lg.png` |
+| ![Emoji of 1f643-sm.png](emoji/1f643-sm.png) | `1f643-sm.png` |
+| ![Emoji of 1f644-lg.png](emoji/1f644-lg.png) | `1f644-lg.png` |
+| ![Emoji of 1f644-sm.png](emoji/1f644-sm.png) | `1f644-sm.png` |
+| ![Emoji of 1f917-lg.png](emoji/1f917-lg.png) | `1f917-lg.png` |
+| ![Emoji of 1f917-sm.png](emoji/1f917-sm.png) | `1f917-sm.png` |
+| ![Emoji of 1f918-lg.png](emoji/1f918-lg.png) | `1f918-lg.png` |
+| ![Emoji of 1f918-sm.png](emoji/1f918-sm.png) | `1f918-sm.png` |
+| ![Emoji of 1f91d-lg.png](emoji/1f91d-lg.png) | `1f91d-lg.png` |
+| ![Emoji of 1f91d-sm.png](emoji/1f91d-sm.png) | `1f91d-sm.png` |
+| ![Emoji of 1f923-lg.png](emoji/1f923-lg.png) | `1f923-lg.png` |
+| ![Emoji of 1f923-sm.png](emoji/1f923-sm.png) | `1f923-sm.png` |
+| ![Emoji of 1f924-lg.png](emoji/1f924-lg.png) | `1f924-lg.png` |
+| ![Emoji of 1f924-sm.png](emoji/1f924-sm.png) | `1f924-sm.png` |
+| ![Emoji of 1f929-lg.png](emoji/1f929-lg.png) | `1f929-lg.png` |
+| ![Emoji of 1f929-sm.png](emoji/1f929-sm.png) | `1f929-sm.png` |
+| ![Emoji of 1f92a-lg.png](emoji/1f92a-lg.png) | `1f92a-lg.png` |
+| ![Emoji of 1f92a-sm.png](emoji/1f92a-sm.png) | `1f92a-sm.png` |
+| ![Emoji of 1f92c-lg.png](emoji/1f92c-lg.png) | `1f92c-lg.png` |
+| ![Emoji of 1f92c-sm.png](emoji/1f92c-sm.png) | `1f92c-sm.png` |
+| ![Emoji of 1f970-lg.png](emoji/1f970-lg.png) | `1f970-lg.png` |
+| ![Emoji of 1f970-sm.png](emoji/1f970-sm.png) | `1f970-sm.png` |
+| ![Emoji of 1f97a-lg.png](emoji/1f97a-lg.png) | `1f97a-lg.png` |
+| ![Emoji of 1f97a-sm.png](emoji/1f97a-sm.png) | `1f97a-sm.png` |
+| ![Emoji of 231a-lg.png](emoji/231a-lg.png) | `231a-lg.png` |
+| ![Emoji of 231a-sm.png](emoji/231a-sm.png) | `231a-sm.png` |
+| ![Emoji of 2620-lg.png](emoji/2620-lg.png) | `2620-lg.png` |
+| ![Emoji of 2620-sm.png](emoji/2620-sm.png) | `2620-sm.png` |
+| ![Emoji of 26a7-lg.png](emoji/26a7-lg.png) | `26a7-lg.png` |
+| ![Emoji of 26a7-sm.png](emoji/26a7-sm.png) | `26a7-sm.png` |
+| ![Emoji of 2705-lg.png](emoji/2705-lg.png) | `2705-lg.png` |
+| ![Emoji of 2705-sm.png](emoji/2705-sm.png) | `2705-sm.png` |
+| ![Emoji of 2728-lg.png](emoji/2728-lg.png) | `2728-lg.png` |
+| ![Emoji of 2728-sm.png](emoji/2728-sm.png) | `2728-sm.png` |
+| ![Emoji of 274e-lg.png](emoji/274e-lg.png) | `274e-lg.png` |
+| ![Emoji of 274e-sm.png](emoji/274e-sm.png) | `274e-sm.png` |
+| ![Emoji of 2757-lg.png](emoji/2757-lg.png) | `2757-lg.png` |
+| ![Emoji of 2757-sm.png](emoji/2757-sm.png) | `2757-sm.png` |
+| ![Emoji of 2763-lg.png](emoji/2763-lg.png) | `2763-lg.png` |
+| ![Emoji of 2763-sm.png](emoji/2763-sm.png) | `2763-sm.png` |
+| ![Emoji of 2b50-lg.png](emoji/2b50-lg.png) | `2b50-lg.png` |
+| ![Emoji of 2b50-sm.png](emoji/2b50-sm.png) | `2b50-sm.png` |
+
+> Readme autogenerated @ Tue Nov 30 15:30:02 UTC 2021
+
