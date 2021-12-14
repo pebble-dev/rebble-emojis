@@ -1,0 +1,6902 @@
+{
+  "gothic_14_emoji": {
+    "line-height": 14,
+    "fallback": 9647,
+    "glyphs": [
+      {
+        "character": "\u2192",
+        "codepoint": 8594,
+        "width": 13,
+        "height": 5,
+        "left": 1,
+        "top": 7,
+        "advance": 14
+      },
+      {
+        "character": "\u25af",
+        "codepoint": 9647,
+        "width": 0,
+        "height": 0,
+        "left": 0,
+        "top": 14,
+        "advance": 14
+      },
+      {
+        "character": "\u25ba",
+        "codepoint": 9658,
+        "width": 8,
+        "height": 9,
+        "left": 1,
+        "top": 5,
+        "advance": 9
+      },
+      {
+        "character": "\u2605",
+        "codepoint": 9733,
+        "width": 11,
+        "height": 9,
+        "left": 1,
+        "top": 5,
+        "advance": 12
+      },
+      {
+        "character": "\u260e",
+        "codepoint": 9742,
+        "width": 8,
+        "height": 9,
+        "left": 1,
+        "top": 5,
+        "advance": 9
+      },
+      {
+        "character": "\u261d",
+        "codepoint": 9757,
+        "width": 11,
+        "height": 19,
+        "left": 1,
+        "top": -5,
+        "advance": 12
+      },
+      {
+        "character": "\u263a",
+        "codepoint": 9786,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\u2665",
+        "codepoint": 9829,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\u2708",
+        "codepoint": 9992,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\u270a",
+        "codepoint": 9994,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 0,
+        "advance": 13
+      },
+      {
+        "character": "\u270b",
+        "codepoint": 9995,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 0,
+        "advance": 13
+      },
+      {
+        "character": "\u270c",
+        "codepoint": 9996,
+        "width": 12,
+        "height": 19,
+        "left": 1,
+        "top": -5,
+        "advance": 13
+      },
+      {
+        "character": "\u2764",
+        "codepoint": 10084,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ue003",
+        "codepoint": 57347,
+        "width": 18,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 19
+      },
+      {
+        "character": "\ue00d",
+        "codepoint": 57357,
+        "width": 13,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 14
+      },
+      {
+        "character": "\ue00e",
+        "codepoint": 57358,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": -1,
+        "advance": 17
+      },
+      {
+        "character": "\ue00f",
+        "codepoint": 57359,
+        "width": 11,
+        "height": 19,
+        "left": 1,
+        "top": -5,
+        "advance": 12
+      },
+      {
+        "character": "\ue010",
+        "codepoint": 57360,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 0,
+        "advance": 13
+      },
+      {
+        "character": "\ue011",
+        "codepoint": 57361,
+        "width": 12,
+        "height": 19,
+        "left": 1,
+        "top": -5,
+        "advance": 13
+      },
+      {
+        "character": "\ue012",
+        "codepoint": 57362,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 0,
+        "advance": 13
+      },
+      {
+        "character": "\ue022",
+        "codepoint": 57378,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ue023",
+        "codepoint": 57379,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ue03e",
+        "codepoint": 57406,
+        "width": 12,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 14
+      },
+      {
+        "character": "\ue047",
+        "codepoint": 57415,
+        "width": 9,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 10
+      },
+      {
+        "character": "\ue056",
+        "codepoint": 57430,
+        "width": 11,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 12
+      },
+      {
+        "character": "\ue057",
+        "codepoint": 57431,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue058",
+        "codepoint": 57432,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue059",
+        "codepoint": 57433,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue05a",
+        "codepoint": 57434,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 15
+      },
+      {
+        "character": "\ue105",
+        "codepoint": 57605,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue106",
+        "codepoint": 57606,
+        "width": 15,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 16
+      },
+      {
+        "character": "\ue107",
+        "codepoint": 57607,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue108",
+        "codepoint": 57608,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 15
+      },
+      {
+        "character": "\ue112",
+        "codepoint": 57618,
+        "width": 13,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 15
+      },
+      {
+        "character": "\ue204",
+        "codepoint": 57860,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue22e",
+        "codepoint": 57902,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": -2,
+        "advance": 15
+      },
+      {
+        "character": "\ue22f",
+        "codepoint": 57903,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": -2,
+        "advance": 15
+      },
+      {
+        "character": "\ue230",
+        "codepoint": 57904,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 18
+      },
+      {
+        "character": "\ue231",
+        "codepoint": 57905,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 18
+      },
+      {
+        "character": "\ue30c",
+        "codepoint": 58124,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 18
+      },
+      {
+        "character": "\ue312",
+        "codepoint": 58130,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 0,
+        "advance": 16
+      },
+      {
+        "character": "\ue327",
+        "codepoint": 58151,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 18
+      },
+      {
+        "character": "\ue328",
+        "codepoint": 58152,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ue329",
+        "codepoint": 58153,
+        "width": 10,
+        "height": 9,
+        "left": 1,
+        "top": 5,
+        "advance": 11
+      },
+      {
+        "character": "\ue32a",
+        "codepoint": 58154,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ue32b",
+        "codepoint": 58155,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ue32c",
+        "codepoint": 58156,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ue32d",
+        "codepoint": 58157,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ue331",
+        "codepoint": 58161,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 15
+      },
+      {
+        "character": "\ue401",
+        "codepoint": 58369,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 15
+      },
+      {
+        "character": "\ue402",
+        "codepoint": 58370,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue403",
+        "codepoint": 58371,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue404",
+        "codepoint": 58372,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue405",
+        "codepoint": 58373,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue406",
+        "codepoint": 58374,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue407",
+        "codepoint": 58375,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue408",
+        "codepoint": 58376,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue409",
+        "codepoint": 58377,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue40a",
+        "codepoint": 58378,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue40b",
+        "codepoint": 58379,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue40c",
+        "codepoint": 58380,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue40d",
+        "codepoint": 58381,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue40e",
+        "codepoint": 58382,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue40f",
+        "codepoint": 58383,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 15
+      },
+      {
+        "character": "\ue410",
+        "codepoint": 58384,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue411",
+        "codepoint": 58385,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue412",
+        "codepoint": 58386,
+        "width": 13,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 14
+      },
+      {
+        "character": "\ue413",
+        "codepoint": 58387,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue414",
+        "codepoint": 58388,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue415",
+        "codepoint": 58389,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue416",
+        "codepoint": 58390,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue417",
+        "codepoint": 58391,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ue418",
+        "codepoint": 58392,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 16
+      },
+      {
+        "character": "\ue41d",
+        "codepoint": 58397,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 16
+      },
+      {
+        "character": "\ue41e",
+        "codepoint": 58398,
+        "width": 16,
+        "height": 14,
+        "left": 1,
+        "top": 0,
+        "advance": 17
+      },
+      {
+        "character": "\ue41f",
+        "codepoint": 58399,
+        "width": 18,
+        "height": 15,
+        "left": 1,
+        "top": -1,
+        "advance": 20
+      },
+      {
+        "character": "\ue420",
+        "codepoint": 58400,
+        "width": 14,
+        "height": 16,
+        "left": 1,
+        "top": -2,
+        "advance": 15
+      },
+      {
+        "character": "\ue421",
+        "codepoint": 58401,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": -1,
+        "advance": 17
+      },
+      {
+        "character": "\ue422",
+        "codepoint": 58402,
+        "width": 25,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 27
+      },
+      {
+        "character": "\ue427",
+        "codepoint": 58407,
+        "width": 21,
+        "height": 18,
+        "left": 1,
+        "top": -4,
+        "advance": 23
+      },
+      {
+        "character": "\ue437",
+        "codepoint": 58423,
+        "width": 11,
+        "height": 10,
+        "left": 1,
+        "top": 4,
+        "advance": 13
+      },
+      {
+        "character": "\ue4ef",
+        "codepoint": 58607,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 16
+      },
+      {
+        "character": "\ue523",
+        "codepoint": 58659,
+        "width": 12,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 13
+      },
+      {
+        "character": "\ud83c\udf7a",
+        "codepoint": 127866,
+        "width": 9,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 10
+      },
+      {
+        "character": "\ud83c\udf7b",
+        "codepoint": 127867,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 18
+      },
+      {
+        "character": "\ud83c\udf81",
+        "codepoint": 127873,
+        "width": 13,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 15
+      },
+      {
+        "character": "\ud83c\udf89",
+        "codepoint": 127881,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 0,
+        "advance": 16
+      },
+      {
+        "character": "\ud83c\udfa4",
+        "codepoint": 127908,
+        "width": 5,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 6
+      },
+      {
+        "character": "\ud83c\udfa5",
+        "codepoint": 127909,
+        "width": 12,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 13
+      },
+      {
+        "character": "\ud83c\udfb5",
+        "codepoint": 127925,
+        "width": 12,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\udc25",
+        "codepoint": 128037,
+        "width": 12,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\udc35",
+        "codepoint": 128053,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udc46",
+        "codepoint": 128070,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": -2,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udc47",
+        "codepoint": 128071,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": -2,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udc48",
+        "codepoint": 128072,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc49",
+        "codepoint": 128073,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc4a",
+        "codepoint": 128074,
+        "width": 13,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\udc4b",
+        "codepoint": 128075,
+        "width": 16,
+        "height": 14,
+        "left": 1,
+        "top": 0,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc4c",
+        "codepoint": 128076,
+        "width": 14,
+        "height": 16,
+        "left": 1,
+        "top": -2,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udc4d",
+        "codepoint": 128077,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": -1,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc4e",
+        "codepoint": 128078,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": -1,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc4f",
+        "codepoint": 128079,
+        "width": 18,
+        "height": 15,
+        "left": 1,
+        "top": -1,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\udc50",
+        "codepoint": 128080,
+        "width": 25,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 27
+      },
+      {
+        "character": "\ud83d\udc7f",
+        "codepoint": 128127,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udc8b",
+        "codepoint": 128139,
+        "width": 18,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc93",
+        "codepoint": 128147,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc94",
+        "codepoint": 128148,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ud83d\udc95",
+        "codepoint": 128149,
+        "width": 13,
+        "height": 9,
+        "left": 1,
+        "top": 5,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\udc96",
+        "codepoint": 128150,
+        "width": 11,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\udc97",
+        "codepoint": 128151,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ud83d\udc98",
+        "codepoint": 128152,
+        "width": 10,
+        "height": 9,
+        "left": 1,
+        "top": 5,
+        "advance": 11
+      },
+      {
+        "character": "\ud83d\udc99",
+        "codepoint": 128153,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ud83d\udc9a",
+        "codepoint": 128154,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ud83d\udc9b",
+        "codepoint": 128155,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ud83d\udc9c",
+        "codepoint": 128156,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 6,
+        "advance": 10
+      },
+      {
+        "character": "\ud83d\udc9d",
+        "codepoint": 128157,
+        "width": 11,
+        "height": 10,
+        "left": 1,
+        "top": 4,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\udc9e",
+        "codepoint": 128158,
+        "width": 13,
+        "height": 9,
+        "left": 1,
+        "top": 5,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\udc9f",
+        "codepoint": 128159,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\udca9",
+        "codepoint": 128169,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udcaa",
+        "codepoint": 128170,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udcf7",
+        "codepoint": 128247,
+        "width": 11,
+        "height": 9,
+        "left": 1,
+        "top": 5,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\udd25",
+        "codepoint": 128293,
+        "width": 14,
+        "height": 14,
+        "left": 1,
+        "top": 0,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude00",
+        "codepoint": 128512,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude01",
+        "codepoint": 128513,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude02",
+        "codepoint": 128514,
+        "width": 13,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude03",
+        "codepoint": 128515,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude04",
+        "codepoint": 128516,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude05",
+        "codepoint": 128517,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\ude06",
+        "codepoint": 128518,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude07",
+        "codepoint": 128519,
+        "width": 11,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude08",
+        "codepoint": 128520,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude09",
+        "codepoint": 128521,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude0a",
+        "codepoint": 128522,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude0b",
+        "codepoint": 128523,
+        "width": 11,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude0c",
+        "codepoint": 128524,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude0d",
+        "codepoint": 128525,
+        "width": 15,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude0e",
+        "codepoint": 128526,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude0f",
+        "codepoint": 128527,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude10",
+        "codepoint": 128528,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude11",
+        "codepoint": 128529,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude12",
+        "codepoint": 128530,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude13",
+        "codepoint": 128531,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\ude14",
+        "codepoint": 128532,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude15",
+        "codepoint": 128533,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude16",
+        "codepoint": 128534,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude17",
+        "codepoint": 128535,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude18",
+        "codepoint": 128536,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude19",
+        "codepoint": 128537,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude1a",
+        "codepoint": 128538,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude1b",
+        "codepoint": 128539,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude1c",
+        "codepoint": 128540,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude1d",
+        "codepoint": 128541,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude1e",
+        "codepoint": 128542,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude1f",
+        "codepoint": 128543,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude20",
+        "codepoint": 128544,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude21",
+        "codepoint": 128545,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude22",
+        "codepoint": 128546,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude23",
+        "codepoint": 128547,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude24",
+        "codepoint": 128548,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude25",
+        "codepoint": 128549,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\ude26",
+        "codepoint": 128550,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude27",
+        "codepoint": 128551,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude28",
+        "codepoint": 128552,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude29",
+        "codepoint": 128553,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude2a",
+        "codepoint": 128554,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude2b",
+        "codepoint": 128555,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude2c",
+        "codepoint": 128556,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude2d",
+        "codepoint": 128557,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude2e",
+        "codepoint": 128558,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude2f",
+        "codepoint": 128559,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude30",
+        "codepoint": 128560,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\ude31",
+        "codepoint": 128561,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude32",
+        "codepoint": 128562,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude33",
+        "codepoint": 128563,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude34",
+        "codepoint": 128564,
+        "width": 11,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude35",
+        "codepoint": 128565,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude36",
+        "codepoint": 128566,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude37",
+        "codepoint": 128567,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude38",
+        "codepoint": 128568,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude39",
+        "codepoint": 128569,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3a",
+        "codepoint": 128570,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3b",
+        "codepoint": 128571,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3c",
+        "codepoint": 128572,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3d",
+        "codepoint": 128573,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3e",
+        "codepoint": 128574,
+        "width": 11,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude3f",
+        "codepoint": 128575,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude40",
+        "codepoint": 128576,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 2,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude41",
+        "codepoint": 128577,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude42",
+        "codepoint": 128578,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 3,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\ude48",
+        "codepoint": 128584,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\ude4c",
+        "codepoint": 128588,
+        "width": 21,
+        "height": 18,
+        "left": 1,
+        "top": -4,
+        "advance": 23
+      },
+      {
+        "character": "\ud83d\ude4f",
+        "codepoint": 128591,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 1,
+        "advance": 16
+      }
+    ]
+  },
+  "gothic_18_emoji": {
+    "line-height": 18,
+    "fallback": 9647,
+    "glyphs": [
+      {
+        "character": "\u2192",
+        "codepoint": 8594,
+        "width": 13,
+        "height": 5,
+        "left": 1,
+        "top": 11,
+        "advance": 15
+      },
+      {
+        "character": "\u25af",
+        "codepoint": 9647,
+        "width": 0,
+        "height": 0,
+        "left": 0,
+        "top": 18,
+        "advance": 18
+      },
+      {
+        "character": "\u25ba",
+        "codepoint": 9658,
+        "width": 8,
+        "height": 9,
+        "left": 1,
+        "top": 9,
+        "advance": 10
+      },
+      {
+        "character": "\u2605",
+        "codepoint": 9733,
+        "width": 11,
+        "height": 9,
+        "left": 1,
+        "top": 9,
+        "advance": 13
+      },
+      {
+        "character": "\u260e",
+        "codepoint": 9742,
+        "width": 8,
+        "height": 9,
+        "left": 1,
+        "top": 9,
+        "advance": 10
+      },
+      {
+        "character": "\u261d",
+        "codepoint": 9757,
+        "width": 11,
+        "height": 19,
+        "left": 1,
+        "top": -1,
+        "advance": 13
+      },
+      {
+        "character": "\u263a",
+        "codepoint": 9786,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\u2665",
+        "codepoint": 9829,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\u2708",
+        "codepoint": 9992,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\u270a",
+        "codepoint": 9994,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 4,
+        "advance": 14
+      },
+      {
+        "character": "\u270b",
+        "codepoint": 9995,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 4,
+        "advance": 14
+      },
+      {
+        "character": "\u270c",
+        "codepoint": 9996,
+        "width": 12,
+        "height": 19,
+        "left": 1,
+        "top": -1,
+        "advance": 14
+      },
+      {
+        "character": "\u2764",
+        "codepoint": 10084,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ue003",
+        "codepoint": 57347,
+        "width": 18,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 20
+      },
+      {
+        "character": "\ue00d",
+        "codepoint": 57357,
+        "width": 13,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 15
+      },
+      {
+        "character": "\ue00e",
+        "codepoint": 57358,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 3,
+        "advance": 18
+      },
+      {
+        "character": "\ue00f",
+        "codepoint": 57359,
+        "width": 11,
+        "height": 19,
+        "left": 1,
+        "top": -1,
+        "advance": 13
+      },
+      {
+        "character": "\ue010",
+        "codepoint": 57360,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 4,
+        "advance": 14
+      },
+      {
+        "character": "\ue011",
+        "codepoint": 57361,
+        "width": 12,
+        "height": 19,
+        "left": 1,
+        "top": -1,
+        "advance": 14
+      },
+      {
+        "character": "\ue012",
+        "codepoint": 57362,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 4,
+        "advance": 14
+      },
+      {
+        "character": "\ue022",
+        "codepoint": 57378,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ue023",
+        "codepoint": 57379,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ue03e",
+        "codepoint": 57406,
+        "width": 12,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 14
+      },
+      {
+        "character": "\ue047",
+        "codepoint": 57415,
+        "width": 9,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 11
+      },
+      {
+        "character": "\ue056",
+        "codepoint": 57430,
+        "width": 11,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 13
+      },
+      {
+        "character": "\ue057",
+        "codepoint": 57431,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue058",
+        "codepoint": 57432,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue059",
+        "codepoint": 57433,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue05a",
+        "codepoint": 57434,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 16
+      },
+      {
+        "character": "\ue105",
+        "codepoint": 57605,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue106",
+        "codepoint": 57606,
+        "width": 15,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 17
+      },
+      {
+        "character": "\ue107",
+        "codepoint": 57607,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue108",
+        "codepoint": 57608,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ue112",
+        "codepoint": 57618,
+        "width": 13,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 15
+      },
+      {
+        "character": "\ue204",
+        "codepoint": 57860,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue22e",
+        "codepoint": 57902,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 2,
+        "advance": 15
+      },
+      {
+        "character": "\ue22f",
+        "codepoint": 57903,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 2,
+        "advance": 15
+      },
+      {
+        "character": "\ue230",
+        "codepoint": 57904,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 18
+      },
+      {
+        "character": "\ue231",
+        "codepoint": 57905,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 18
+      },
+      {
+        "character": "\ue30c",
+        "codepoint": 58124,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 19
+      },
+      {
+        "character": "\ue312",
+        "codepoint": 58130,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 4,
+        "advance": 17
+      },
+      {
+        "character": "\ue327",
+        "codepoint": 58151,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 19
+      },
+      {
+        "character": "\ue328",
+        "codepoint": 58152,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ue329",
+        "codepoint": 58153,
+        "width": 9,
+        "height": 9,
+        "left": 2,
+        "top": 9,
+        "advance": 12
+      },
+      {
+        "character": "\ue32a",
+        "codepoint": 58154,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ue32b",
+        "codepoint": 58155,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ue32c",
+        "codepoint": 58156,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ue32d",
+        "codepoint": 58157,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ue331",
+        "codepoint": 58161,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ue401",
+        "codepoint": 58369,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ue402",
+        "codepoint": 58370,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue403",
+        "codepoint": 58371,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue404",
+        "codepoint": 58372,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue405",
+        "codepoint": 58373,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue406",
+        "codepoint": 58374,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue407",
+        "codepoint": 58375,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue408",
+        "codepoint": 58376,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue409",
+        "codepoint": 58377,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue40a",
+        "codepoint": 58378,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue40b",
+        "codepoint": 58379,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue40c",
+        "codepoint": 58380,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue40d",
+        "codepoint": 58381,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue40e",
+        "codepoint": 58382,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue40f",
+        "codepoint": 58383,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ue410",
+        "codepoint": 58384,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue411",
+        "codepoint": 58385,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue412",
+        "codepoint": 58386,
+        "width": 13,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 15
+      },
+      {
+        "character": "\ue413",
+        "codepoint": 58387,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue414",
+        "codepoint": 58388,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue415",
+        "codepoint": 58389,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue416",
+        "codepoint": 58390,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue417",
+        "codepoint": 58391,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ue418",
+        "codepoint": 58392,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ue41d",
+        "codepoint": 58397,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 17
+      },
+      {
+        "character": "\ue41e",
+        "codepoint": 58398,
+        "width": 16,
+        "height": 14,
+        "left": 1,
+        "top": 4,
+        "advance": 18
+      },
+      {
+        "character": "\ue41f",
+        "codepoint": 58399,
+        "width": 18,
+        "height": 15,
+        "left": 1,
+        "top": 3,
+        "advance": 20
+      },
+      {
+        "character": "\ue420",
+        "codepoint": 58400,
+        "width": 14,
+        "height": 16,
+        "left": 1,
+        "top": 2,
+        "advance": 16
+      },
+      {
+        "character": "\ue421",
+        "codepoint": 58401,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 3,
+        "advance": 18
+      },
+      {
+        "character": "\ue422",
+        "codepoint": 58402,
+        "width": 25,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 27
+      },
+      {
+        "character": "\ue427",
+        "codepoint": 58407,
+        "width": 21,
+        "height": 18,
+        "left": 1,
+        "top": 0,
+        "advance": 23
+      },
+      {
+        "character": "\ue437",
+        "codepoint": 58423,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ue4ef",
+        "codepoint": 58607,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 17
+      },
+      {
+        "character": "\ue523",
+        "codepoint": 58659,
+        "width": 12,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 14
+      },
+      {
+        "character": "\ud83c\udf7a",
+        "codepoint": 127866,
+        "width": 9,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 11
+      },
+      {
+        "character": "\ud83c\udf7b",
+        "codepoint": 127867,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 19
+      },
+      {
+        "character": "\ud83c\udf81",
+        "codepoint": 127873,
+        "width": 13,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 15
+      },
+      {
+        "character": "\ud83c\udf89",
+        "codepoint": 127881,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 4,
+        "advance": 17
+      },
+      {
+        "character": "\ud83c\udfa4",
+        "codepoint": 127908,
+        "width": 5,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 7
+      },
+      {
+        "character": "\ud83c\udfa5",
+        "codepoint": 127909,
+        "width": 12,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 14
+      },
+      {
+        "character": "\ud83c\udfb5",
+        "codepoint": 127925,
+        "width": 12,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\udc25",
+        "codepoint": 128037,
+        "width": 12,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\udc35",
+        "codepoint": 128053,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udc46",
+        "codepoint": 128070,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 2,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udc47",
+        "codepoint": 128071,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 2,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udc48",
+        "codepoint": 128072,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc49",
+        "codepoint": 128073,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc4a",
+        "codepoint": 128074,
+        "width": 13,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udc4b",
+        "codepoint": 128075,
+        "width": 16,
+        "height": 14,
+        "left": 1,
+        "top": 4,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc4c",
+        "codepoint": 128076,
+        "width": 14,
+        "height": 16,
+        "left": 1,
+        "top": 2,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udc4d",
+        "codepoint": 128077,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 3,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc4e",
+        "codepoint": 128078,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 3,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc4f",
+        "codepoint": 128079,
+        "width": 18,
+        "height": 15,
+        "left": 1,
+        "top": 3,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\udc50",
+        "codepoint": 128080,
+        "width": 25,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 27
+      },
+      {
+        "character": "\ud83d\udc7f",
+        "codepoint": 128127,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc8b",
+        "codepoint": 128139,
+        "width": 18,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\udc93",
+        "codepoint": 128147,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc94",
+        "codepoint": 128148,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ud83d\udc95",
+        "codepoint": 128149,
+        "width": 13,
+        "height": 9,
+        "left": 1,
+        "top": 9,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udc96",
+        "codepoint": 128150,
+        "width": 11,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\udc97",
+        "codepoint": 128151,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ud83d\udc98",
+        "codepoint": 128152,
+        "width": 9,
+        "height": 9,
+        "left": 2,
+        "top": 9,
+        "advance": 12
+      },
+      {
+        "character": "\ud83d\udc99",
+        "codepoint": 128153,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ud83d\udc9a",
+        "codepoint": 128154,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ud83d\udc9b",
+        "codepoint": 128155,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ud83d\udc9c",
+        "codepoint": 128156,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ud83d\udc9d",
+        "codepoint": 128157,
+        "width": 9,
+        "height": 8,
+        "left": 1,
+        "top": 10,
+        "advance": 11
+      },
+      {
+        "character": "\ud83d\udc9e",
+        "codepoint": 128158,
+        "width": 13,
+        "height": 9,
+        "left": 1,
+        "top": 9,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\udc9f",
+        "codepoint": 128159,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\udca9",
+        "codepoint": 128169,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udcaa",
+        "codepoint": 128170,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udcf7",
+        "codepoint": 128247,
+        "width": 11,
+        "height": 9,
+        "left": 1,
+        "top": 9,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\udd25",
+        "codepoint": 128293,
+        "width": 14,
+        "height": 14,
+        "left": 1,
+        "top": 4,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude00",
+        "codepoint": 128512,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude01",
+        "codepoint": 128513,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude02",
+        "codepoint": 128514,
+        "width": 13,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 15
+      },
+      {
+        "character": "\ud83d\ude03",
+        "codepoint": 128515,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude04",
+        "codepoint": 128516,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude05",
+        "codepoint": 128517,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude06",
+        "codepoint": 128518,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude07",
+        "codepoint": 128519,
+        "width": 11,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude08",
+        "codepoint": 128520,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\ude09",
+        "codepoint": 128521,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude0a",
+        "codepoint": 128522,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude0b",
+        "codepoint": 128523,
+        "width": 11,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude0c",
+        "codepoint": 128524,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude0d",
+        "codepoint": 128525,
+        "width": 15,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\ude0e",
+        "codepoint": 128526,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude0f",
+        "codepoint": 128527,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude10",
+        "codepoint": 128528,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude11",
+        "codepoint": 128529,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude12",
+        "codepoint": 128530,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude13",
+        "codepoint": 128531,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude14",
+        "codepoint": 128532,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude15",
+        "codepoint": 128533,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude16",
+        "codepoint": 128534,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude17",
+        "codepoint": 128535,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude18",
+        "codepoint": 128536,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude19",
+        "codepoint": 128537,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude1a",
+        "codepoint": 128538,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude1b",
+        "codepoint": 128539,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude1c",
+        "codepoint": 128540,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude1d",
+        "codepoint": 128541,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude1e",
+        "codepoint": 128542,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude1f",
+        "codepoint": 128543,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude20",
+        "codepoint": 128544,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude21",
+        "codepoint": 128545,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude22",
+        "codepoint": 128546,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude23",
+        "codepoint": 128547,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude24",
+        "codepoint": 128548,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude25",
+        "codepoint": 128549,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude26",
+        "codepoint": 128550,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude27",
+        "codepoint": 128551,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude28",
+        "codepoint": 128552,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude29",
+        "codepoint": 128553,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude2a",
+        "codepoint": 128554,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude2b",
+        "codepoint": 128555,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude2c",
+        "codepoint": 128556,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude2d",
+        "codepoint": 128557,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude2e",
+        "codepoint": 128558,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude2f",
+        "codepoint": 128559,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude30",
+        "codepoint": 128560,
+        "width": 14,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude31",
+        "codepoint": 128561,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude32",
+        "codepoint": 128562,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude33",
+        "codepoint": 128563,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude34",
+        "codepoint": 128564,
+        "width": 11,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude35",
+        "codepoint": 128565,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude36",
+        "codepoint": 128566,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude37",
+        "codepoint": 128567,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude38",
+        "codepoint": 128568,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude39",
+        "codepoint": 128569,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3a",
+        "codepoint": 128570,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3b",
+        "codepoint": 128571,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3c",
+        "codepoint": 128572,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3d",
+        "codepoint": 128573,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude3e",
+        "codepoint": 128574,
+        "width": 11,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude3f",
+        "codepoint": 128575,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude40",
+        "codepoint": 128576,
+        "width": 12,
+        "height": 12,
+        "left": 1,
+        "top": 6,
+        "advance": 14
+      },
+      {
+        "character": "\ud83d\ude41",
+        "codepoint": 128577,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude42",
+        "codepoint": 128578,
+        "width": 11,
+        "height": 11,
+        "left": 1,
+        "top": 7,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\ude48",
+        "codepoint": 128584,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\ude4c",
+        "codepoint": 128588,
+        "width": 21,
+        "height": 18,
+        "left": 1,
+        "top": 0,
+        "advance": 23
+      },
+      {
+        "character": "\ud83d\ude4f",
+        "codepoint": 128591,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 5,
+        "advance": 17
+      }
+    ]
+  },
+  "gothic_24_emoji": {
+    "line-height": 24,
+    "fallback": 9647,
+    "glyphs": [
+      {
+        "character": "\u0437",
+        "codepoint": 1079,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 17
+      },
+      {
+        "character": "\u2192",
+        "codepoint": 8594,
+        "width": 13,
+        "height": 5,
+        "left": 1,
+        "top": 16,
+        "advance": 15
+      },
+      {
+        "character": "\u25af",
+        "codepoint": 9647,
+        "width": 0,
+        "height": 0,
+        "left": 0,
+        "top": 24,
+        "advance": 24
+      },
+      {
+        "character": "\u25ba",
+        "codepoint": 9658,
+        "width": 8,
+        "height": 9,
+        "left": 1,
+        "top": 14,
+        "advance": 10
+      },
+      {
+        "character": "\u2605",
+        "codepoint": 9733,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 17
+      },
+      {
+        "character": "\u260e",
+        "codepoint": 9742,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 19
+      },
+      {
+        "character": "\u261d",
+        "codepoint": 9757,
+        "width": 11,
+        "height": 19,
+        "left": 1,
+        "top": 5,
+        "advance": 13
+      },
+      {
+        "character": "\u263a",
+        "codepoint": 9786,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\u270a",
+        "codepoint": 9994,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 15
+      },
+      {
+        "character": "\u270b",
+        "codepoint": 9995,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 15
+      },
+      {
+        "character": "\u270c",
+        "codepoint": 9996,
+        "width": 12,
+        "height": 19,
+        "left": 1,
+        "top": 5,
+        "advance": 15
+      },
+      {
+        "character": "\u2764",
+        "codepoint": 10084,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ue003",
+        "codepoint": 57347,
+        "width": 18,
+        "height": 13,
+        "left": 2,
+        "top": 11,
+        "advance": 21
+      },
+      {
+        "character": "\ue00d",
+        "codepoint": 57357,
+        "width": 13,
+        "height": 13,
+        "left": 0,
+        "top": 11,
+        "advance": 13
+      },
+      {
+        "character": "\ue00e",
+        "codepoint": 57358,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 19
+      },
+      {
+        "character": "\ue00f",
+        "codepoint": 57359,
+        "width": 11,
+        "height": 19,
+        "left": 1,
+        "top": 5,
+        "advance": 13
+      },
+      {
+        "character": "\ue010",
+        "codepoint": 57360,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 15
+      },
+      {
+        "character": "\ue011",
+        "codepoint": 57361,
+        "width": 12,
+        "height": 19,
+        "left": 1,
+        "top": 5,
+        "advance": 15
+      },
+      {
+        "character": "\ue012",
+        "codepoint": 57362,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 15
+      },
+      {
+        "character": "\ue022",
+        "codepoint": 57378,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ue023",
+        "codepoint": 57379,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ue03e",
+        "codepoint": 57406,
+        "width": 15,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 18
+      },
+      {
+        "character": "\ue047",
+        "codepoint": 57415,
+        "width": 13,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 16
+      },
+      {
+        "character": "\ue056",
+        "codepoint": 57430,
+        "width": 16,
+        "height": 17,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue057",
+        "codepoint": 57431,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue058",
+        "codepoint": 57432,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue059",
+        "codepoint": 57433,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue05a",
+        "codepoint": 57434,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue105",
+        "codepoint": 57605,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue106",
+        "codepoint": 57606,
+        "width": 20,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 23
+      },
+      {
+        "character": "\ue107",
+        "codepoint": 57607,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue108",
+        "codepoint": 57608,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 21
+      },
+      {
+        "character": "\ue112",
+        "codepoint": 57618,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 19
+      },
+      {
+        "character": "\ue204",
+        "codepoint": 57860,
+        "width": 13,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 16
+      },
+      {
+        "character": "\ue22e",
+        "codepoint": 57902,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 16
+      },
+      {
+        "character": "\ue22f",
+        "codepoint": 57903,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 16
+      },
+      {
+        "character": "\ue230",
+        "codepoint": 57904,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 19
+      },
+      {
+        "character": "\ue231",
+        "codepoint": 57905,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 19
+      },
+      {
+        "character": "\ue30c",
+        "codepoint": 58124,
+        "width": 17,
+        "height": 18,
+        "left": 1,
+        "top": 6,
+        "advance": 20
+      },
+      {
+        "character": "\ue312",
+        "codepoint": 58130,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 7,
+        "advance": 21
+      },
+      {
+        "character": "\ue327",
+        "codepoint": 58151,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 12,
+        "advance": 20
+      },
+      {
+        "character": "\ue328",
+        "codepoint": 58152,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ue329",
+        "codepoint": 58153,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 19
+      },
+      {
+        "character": "\ue32a",
+        "codepoint": 58154,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ue32b",
+        "codepoint": 58155,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ue32c",
+        "codepoint": 58156,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ue32d",
+        "codepoint": 58157,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ue331",
+        "codepoint": 58161,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 21
+      },
+      {
+        "character": "\ue401",
+        "codepoint": 58369,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 21
+      },
+      {
+        "character": "\ue402",
+        "codepoint": 58370,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue403",
+        "codepoint": 58371,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue404",
+        "codepoint": 58372,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue405",
+        "codepoint": 58373,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue406",
+        "codepoint": 58374,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue407",
+        "codepoint": 58375,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue408",
+        "codepoint": 58376,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue409",
+        "codepoint": 58377,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue40a",
+        "codepoint": 58378,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue40b",
+        "codepoint": 58379,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue40c",
+        "codepoint": 58380,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue40d",
+        "codepoint": 58381,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue40e",
+        "codepoint": 58382,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue40f",
+        "codepoint": 58383,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 21
+      },
+      {
+        "character": "\ue410",
+        "codepoint": 58384,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue411",
+        "codepoint": 58385,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue412",
+        "codepoint": 58386,
+        "width": 20,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 23
+      },
+      {
+        "character": "\ue413",
+        "codepoint": 58387,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue414",
+        "codepoint": 58388,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue415",
+        "codepoint": 58389,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue416",
+        "codepoint": 58390,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue417",
+        "codepoint": 58391,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ue418",
+        "codepoint": 58392,
+        "width": 19,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 22
+      },
+      {
+        "character": "\ue41d",
+        "codepoint": 58397,
+        "width": 19,
+        "height": 18,
+        "left": 1,
+        "top": 6,
+        "advance": 22
+      },
+      {
+        "character": "\ue41e",
+        "codepoint": 58398,
+        "width": 16,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 19
+      },
+      {
+        "character": "\ue41f",
+        "codepoint": 58399,
+        "width": 18,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 21
+      },
+      {
+        "character": "\ue420",
+        "codepoint": 58400,
+        "width": 14,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 17
+      },
+      {
+        "character": "\ue421",
+        "codepoint": 58401,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 19
+      },
+      {
+        "character": "\ue422",
+        "codepoint": 58402,
+        "width": 25,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 28
+      },
+      {
+        "character": "\ue427",
+        "codepoint": 58407,
+        "width": 21,
+        "height": 18,
+        "left": 1,
+        "top": 6,
+        "advance": 24
+      },
+      {
+        "character": "\ue4ef",
+        "codepoint": 58607,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 7,
+        "advance": 21
+      },
+      {
+        "character": "\ue523",
+        "codepoint": 58659,
+        "width": 14,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 17
+      },
+      {
+        "character": "\ud83c\udf7a",
+        "codepoint": 127866,
+        "width": 13,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 16
+      },
+      {
+        "character": "\ud83c\udf7b",
+        "codepoint": 127867,
+        "width": 17,
+        "height": 18,
+        "left": 1,
+        "top": 6,
+        "advance": 20
+      },
+      {
+        "character": "\ud83c\udf81",
+        "codepoint": 127873,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 19
+      },
+      {
+        "character": "\ud83c\udf89",
+        "codepoint": 127881,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 7,
+        "advance": 21
+      },
+      {
+        "character": "\ud83c\udfa4",
+        "codepoint": 127908,
+        "width": 7,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 9
+      },
+      {
+        "character": "\ud83c\udfa5",
+        "codepoint": 127909,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 16
+      },
+      {
+        "character": "\ud83c\udfb5",
+        "codepoint": 127925,
+        "width": 15,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc25",
+        "codepoint": 128037,
+        "width": 14,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc35",
+        "codepoint": 128053,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\udc46",
+        "codepoint": 128070,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udc47",
+        "codepoint": 128071,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udc48",
+        "codepoint": 128072,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc49",
+        "codepoint": 128073,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc4a",
+        "codepoint": 128074,
+        "width": 13,
+        "height": 13,
+        "left": 0,
+        "top": 11,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\udc4b",
+        "codepoint": 128075,
+        "width": 16,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc4c",
+        "codepoint": 128076,
+        "width": 14,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc4d",
+        "codepoint": 128077,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc4e",
+        "codepoint": 128078,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc4f",
+        "codepoint": 128079,
+        "width": 18,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\udc50",
+        "codepoint": 128080,
+        "width": 25,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 28
+      },
+      {
+        "character": "\ud83d\udc7f",
+        "codepoint": 128127,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 7,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\udc8b",
+        "codepoint": 128139,
+        "width": 18,
+        "height": 13,
+        "left": 2,
+        "top": 11,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\udc93",
+        "codepoint": 128147,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 12,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\udc94",
+        "codepoint": 128148,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc95",
+        "codepoint": 128149,
+        "width": 16,
+        "height": 14,
+        "left": 2,
+        "top": 10,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc96",
+        "codepoint": 128150,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc97",
+        "codepoint": 128151,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc98",
+        "codepoint": 128152,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 9,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc99",
+        "codepoint": 128153,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc9a",
+        "codepoint": 128154,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc9b",
+        "codepoint": 128155,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc9c",
+        "codepoint": 128156,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc9d",
+        "codepoint": 128157,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 10,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc9e",
+        "codepoint": 128158,
+        "width": 16,
+        "height": 14,
+        "left": 2,
+        "top": 10,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc9f",
+        "codepoint": 128159,
+        "width": 13,
+        "height": 13,
+        "left": 1,
+        "top": 11,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udca9",
+        "codepoint": 128169,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udcaa",
+        "codepoint": 128170,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udcf7",
+        "codepoint": 128247,
+        "width": 15,
+        "height": 11,
+        "left": 1,
+        "top": 13,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udd25",
+        "codepoint": 128293,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude00",
+        "codepoint": 128512,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude01",
+        "codepoint": 128513,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude02",
+        "codepoint": 128514,
+        "width": 20,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 23
+      },
+      {
+        "character": "\ud83d\ude03",
+        "codepoint": 128515,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude04",
+        "codepoint": 128516,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude05",
+        "codepoint": 128517,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude06",
+        "codepoint": 128518,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude07",
+        "codepoint": 128519,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude08",
+        "codepoint": 128520,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 7,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude09",
+        "codepoint": 128521,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0a",
+        "codepoint": 128522,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0b",
+        "codepoint": 128523,
+        "width": 16,
+        "height": 17,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0c",
+        "codepoint": 128524,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0d",
+        "codepoint": 128525,
+        "width": 20,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 23
+      },
+      {
+        "character": "\ud83d\ude0e",
+        "codepoint": 128526,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0f",
+        "codepoint": 128527,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude10",
+        "codepoint": 128528,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude11",
+        "codepoint": 128529,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude12",
+        "codepoint": 128530,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude13",
+        "codepoint": 128531,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude14",
+        "codepoint": 128532,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude15",
+        "codepoint": 128533,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude16",
+        "codepoint": 128534,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude17",
+        "codepoint": 128535,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude18",
+        "codepoint": 128536,
+        "width": 19,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 22
+      },
+      {
+        "character": "\ud83d\ude19",
+        "codepoint": 128537,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1a",
+        "codepoint": 128538,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1b",
+        "codepoint": 128539,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1c",
+        "codepoint": 128540,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1d",
+        "codepoint": 128541,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1e",
+        "codepoint": 128542,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1f",
+        "codepoint": 128543,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude20",
+        "codepoint": 128544,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude21",
+        "codepoint": 128545,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude22",
+        "codepoint": 128546,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude23",
+        "codepoint": 128547,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude24",
+        "codepoint": 128548,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude25",
+        "codepoint": 128549,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude26",
+        "codepoint": 128550,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude27",
+        "codepoint": 128551,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude28",
+        "codepoint": 128552,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude29",
+        "codepoint": 128553,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2a",
+        "codepoint": 128554,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2b",
+        "codepoint": 128555,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2c",
+        "codepoint": 128556,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2d",
+        "codepoint": 128557,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2e",
+        "codepoint": 128558,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2f",
+        "codepoint": 128559,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude30",
+        "codepoint": 128560,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude31",
+        "codepoint": 128561,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude32",
+        "codepoint": 128562,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude33",
+        "codepoint": 128563,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude34",
+        "codepoint": 128564,
+        "width": 16,
+        "height": 17,
+        "left": 1,
+        "top": 7,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude35",
+        "codepoint": 128565,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude36",
+        "codepoint": 128566,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude37",
+        "codepoint": 128567,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude38",
+        "codepoint": 128568,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude39",
+        "codepoint": 128569,
+        "width": 19,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 22
+      },
+      {
+        "character": "\ud83d\ude3a",
+        "codepoint": 128570,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3b",
+        "codepoint": 128571,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3c",
+        "codepoint": 128572,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3d",
+        "codepoint": 128573,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3e",
+        "codepoint": 128574,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3f",
+        "codepoint": 128575,
+        "width": 17,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\ude40",
+        "codepoint": 128576,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude41",
+        "codepoint": 128577,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude42",
+        "codepoint": 128578,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude48",
+        "codepoint": 128584,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 8,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\ude4c",
+        "codepoint": 128588,
+        "width": 21,
+        "height": 18,
+        "left": 1,
+        "top": 6,
+        "advance": 24
+      },
+      {
+        "character": "\ud83d\ude4f",
+        "codepoint": 128591,
+        "width": 19,
+        "height": 18,
+        "left": 1,
+        "top": 6,
+        "advance": 22
+      }
+    ]
+  },
+  "gothic_28_emoji": {
+    "line-height": 28,
+    "fallback": 9647,
+    "glyphs": [
+      {
+        "character": "\u0437",
+        "codepoint": 1079,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 17
+      },
+      {
+        "character": "\u2192",
+        "codepoint": 8594,
+        "width": 13,
+        "height": 5,
+        "left": 1,
+        "top": 20,
+        "advance": 15
+      },
+      {
+        "character": "\u25af",
+        "codepoint": 9647,
+        "width": 0,
+        "height": 0,
+        "left": 0,
+        "top": 28,
+        "advance": 28
+      },
+      {
+        "character": "\u25ba",
+        "codepoint": 9658,
+        "width": 8,
+        "height": 9,
+        "left": 1,
+        "top": 18,
+        "advance": 10
+      },
+      {
+        "character": "\u2605",
+        "codepoint": 9733,
+        "width": 15,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 17
+      },
+      {
+        "character": "\u260e",
+        "codepoint": 9742,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 19
+      },
+      {
+        "character": "\u261d",
+        "codepoint": 9757,
+        "width": 11,
+        "height": 19,
+        "left": 1,
+        "top": 9,
+        "advance": 14
+      },
+      {
+        "character": "\u263a",
+        "codepoint": 9786,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\u270a",
+        "codepoint": 9994,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 15
+      },
+      {
+        "character": "\u270b",
+        "codepoint": 9995,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 15
+      },
+      {
+        "character": "\u270c",
+        "codepoint": 9996,
+        "width": 12,
+        "height": 19,
+        "left": 1,
+        "top": 9,
+        "advance": 15
+      },
+      {
+        "character": "\u2764",
+        "codepoint": 10084,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ue003",
+        "codepoint": 57347,
+        "width": 18,
+        "height": 13,
+        "left": 2,
+        "top": 15,
+        "advance": 21
+      },
+      {
+        "character": "\ue00d",
+        "codepoint": 57357,
+        "width": 13,
+        "height": 13,
+        "left": 0,
+        "top": 15,
+        "advance": 13
+      },
+      {
+        "character": "\ue00e",
+        "codepoint": 57358,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 19
+      },
+      {
+        "character": "\ue00f",
+        "codepoint": 57359,
+        "width": 11,
+        "height": 19,
+        "left": 1,
+        "top": 9,
+        "advance": 14
+      },
+      {
+        "character": "\ue010",
+        "codepoint": 57360,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 15
+      },
+      {
+        "character": "\ue011",
+        "codepoint": 57361,
+        "width": 12,
+        "height": 19,
+        "left": 1,
+        "top": 9,
+        "advance": 15
+      },
+      {
+        "character": "\ue012",
+        "codepoint": 57362,
+        "width": 12,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 15
+      },
+      {
+        "character": "\ue022",
+        "codepoint": 57378,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ue023",
+        "codepoint": 57379,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ue03e",
+        "codepoint": 57406,
+        "width": 15,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 18
+      },
+      {
+        "character": "\ue047",
+        "codepoint": 57415,
+        "width": 13,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 16
+      },
+      {
+        "character": "\ue056",
+        "codepoint": 57430,
+        "width": 16,
+        "height": 17,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue057",
+        "codepoint": 57431,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue058",
+        "codepoint": 57432,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue059",
+        "codepoint": 57433,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue05a",
+        "codepoint": 57434,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue105",
+        "codepoint": 57605,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue106",
+        "codepoint": 57606,
+        "width": 20,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 23
+      },
+      {
+        "character": "\ue107",
+        "codepoint": 57607,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue108",
+        "codepoint": 57608,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 21
+      },
+      {
+        "character": "\ue112",
+        "codepoint": 57618,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 19
+      },
+      {
+        "character": "\ue204",
+        "codepoint": 57860,
+        "width": 13,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 16
+      },
+      {
+        "character": "\ue22e",
+        "codepoint": 57902,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 16
+      },
+      {
+        "character": "\ue22f",
+        "codepoint": 57903,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 16
+      },
+      {
+        "character": "\ue230",
+        "codepoint": 57904,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 19
+      },
+      {
+        "character": "\ue231",
+        "codepoint": 57905,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 19
+      },
+      {
+        "character": "\ue30c",
+        "codepoint": 58124,
+        "width": 17,
+        "height": 18,
+        "left": 1,
+        "top": 10,
+        "advance": 20
+      },
+      {
+        "character": "\ue312",
+        "codepoint": 58130,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 11,
+        "advance": 21
+      },
+      {
+        "character": "\ue327",
+        "codepoint": 58151,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 16,
+        "advance": 20
+      },
+      {
+        "character": "\ue328",
+        "codepoint": 58152,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ue329",
+        "codepoint": 58153,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 19
+      },
+      {
+        "character": "\ue32a",
+        "codepoint": 58154,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ue32b",
+        "codepoint": 58155,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ue32c",
+        "codepoint": 58156,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ue32d",
+        "codepoint": 58157,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ue331",
+        "codepoint": 58161,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 21
+      },
+      {
+        "character": "\ue401",
+        "codepoint": 58369,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 21
+      },
+      {
+        "character": "\ue402",
+        "codepoint": 58370,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue403",
+        "codepoint": 58371,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue404",
+        "codepoint": 58372,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue405",
+        "codepoint": 58373,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue406",
+        "codepoint": 58374,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue407",
+        "codepoint": 58375,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue408",
+        "codepoint": 58376,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue409",
+        "codepoint": 58377,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue40a",
+        "codepoint": 58378,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue40b",
+        "codepoint": 58379,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue40c",
+        "codepoint": 58380,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue40d",
+        "codepoint": 58381,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue40e",
+        "codepoint": 58382,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue40f",
+        "codepoint": 58383,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 21
+      },
+      {
+        "character": "\ue410",
+        "codepoint": 58384,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue411",
+        "codepoint": 58385,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue412",
+        "codepoint": 58386,
+        "width": 20,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 23
+      },
+      {
+        "character": "\ue413",
+        "codepoint": 58387,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue414",
+        "codepoint": 58388,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue415",
+        "codepoint": 58389,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue416",
+        "codepoint": 58390,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue417",
+        "codepoint": 58391,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ue418",
+        "codepoint": 58392,
+        "width": 19,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 22
+      },
+      {
+        "character": "\ue41d",
+        "codepoint": 58397,
+        "width": 19,
+        "height": 18,
+        "left": 1,
+        "top": 10,
+        "advance": 22
+      },
+      {
+        "character": "\ue41e",
+        "codepoint": 58398,
+        "width": 16,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 19
+      },
+      {
+        "character": "\ue41f",
+        "codepoint": 58399,
+        "width": 18,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 21
+      },
+      {
+        "character": "\ue420",
+        "codepoint": 58400,
+        "width": 14,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 17
+      },
+      {
+        "character": "\ue421",
+        "codepoint": 58401,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 19
+      },
+      {
+        "character": "\ue422",
+        "codepoint": 58402,
+        "width": 25,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 28
+      },
+      {
+        "character": "\ue427",
+        "codepoint": 58407,
+        "width": 21,
+        "height": 18,
+        "left": 1,
+        "top": 10,
+        "advance": 24
+      },
+      {
+        "character": "\ue4ef",
+        "codepoint": 58607,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 11,
+        "advance": 21
+      },
+      {
+        "character": "\ue523",
+        "codepoint": 58659,
+        "width": 14,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 17
+      },
+      {
+        "character": "\ud83c\udf7a",
+        "codepoint": 127866,
+        "width": 13,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 16
+      },
+      {
+        "character": "\ud83c\udf7b",
+        "codepoint": 127867,
+        "width": 17,
+        "height": 18,
+        "left": 1,
+        "top": 10,
+        "advance": 20
+      },
+      {
+        "character": "\ud83c\udf81",
+        "codepoint": 127873,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 19
+      },
+      {
+        "character": "\ud83c\udf89",
+        "codepoint": 127881,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 11,
+        "advance": 21
+      },
+      {
+        "character": "\ud83c\udfa4",
+        "codepoint": 127908,
+        "width": 7,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 9
+      },
+      {
+        "character": "\ud83c\udfa5",
+        "codepoint": 127909,
+        "width": 14,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 16
+      },
+      {
+        "character": "\ud83c\udfb5",
+        "codepoint": 127925,
+        "width": 15,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc25",
+        "codepoint": 128037,
+        "width": 14,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc35",
+        "codepoint": 128053,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\udc46",
+        "codepoint": 128070,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udc47",
+        "codepoint": 128071,
+        "width": 13,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udc48",
+        "codepoint": 128072,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc49",
+        "codepoint": 128073,
+        "width": 16,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc4a",
+        "codepoint": 128074,
+        "width": 13,
+        "height": 13,
+        "left": 0,
+        "top": 15,
+        "advance": 13
+      },
+      {
+        "character": "\ud83d\udc4b",
+        "codepoint": 128075,
+        "width": 16,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc4c",
+        "codepoint": 128076,
+        "width": 14,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc4d",
+        "codepoint": 128077,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc4e",
+        "codepoint": 128078,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc4f",
+        "codepoint": 128079,
+        "width": 18,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\udc50",
+        "codepoint": 128080,
+        "width": 25,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 28
+      },
+      {
+        "character": "\ud83d\udc7f",
+        "codepoint": 128127,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 11,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\udc8b",
+        "codepoint": 128139,
+        "width": 18,
+        "height": 13,
+        "left": 2,
+        "top": 15,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\udc93",
+        "codepoint": 128147,
+        "width": 17,
+        "height": 12,
+        "left": 1,
+        "top": 16,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\udc94",
+        "codepoint": 128148,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc95",
+        "codepoint": 128149,
+        "width": 16,
+        "height": 14,
+        "left": 2,
+        "top": 14,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc96",
+        "codepoint": 128150,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc97",
+        "codepoint": 128151,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc98",
+        "codepoint": 128152,
+        "width": 16,
+        "height": 15,
+        "left": 1,
+        "top": 13,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc99",
+        "codepoint": 128153,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc9a",
+        "codepoint": 128154,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc9b",
+        "codepoint": 128155,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc9c",
+        "codepoint": 128156,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udc9d",
+        "codepoint": 128157,
+        "width": 15,
+        "height": 14,
+        "left": 1,
+        "top": 14,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udc9e",
+        "codepoint": 128158,
+        "width": 16,
+        "height": 14,
+        "left": 2,
+        "top": 14,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udc9f",
+        "codepoint": 128159,
+        "width": 13,
+        "height": 13,
+        "left": 1,
+        "top": 15,
+        "advance": 16
+      },
+      {
+        "character": "\ud83d\udca9",
+        "codepoint": 128169,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\udcaa",
+        "codepoint": 128170,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 18
+      },
+      {
+        "character": "\ud83d\udcf7",
+        "codepoint": 128247,
+        "width": 15,
+        "height": 11,
+        "left": 1,
+        "top": 17,
+        "advance": 17
+      },
+      {
+        "character": "\ud83d\udd25",
+        "codepoint": 128293,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude00",
+        "codepoint": 128512,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude01",
+        "codepoint": 128513,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude02",
+        "codepoint": 128514,
+        "width": 20,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 23
+      },
+      {
+        "character": "\ud83d\ude03",
+        "codepoint": 128515,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude04",
+        "codepoint": 128516,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude05",
+        "codepoint": 128517,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude06",
+        "codepoint": 128518,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude07",
+        "codepoint": 128519,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude08",
+        "codepoint": 128520,
+        "width": 18,
+        "height": 17,
+        "left": 1,
+        "top": 11,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude09",
+        "codepoint": 128521,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0a",
+        "codepoint": 128522,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0b",
+        "codepoint": 128523,
+        "width": 16,
+        "height": 17,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0c",
+        "codepoint": 128524,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0d",
+        "codepoint": 128525,
+        "width": 20,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 23
+      },
+      {
+        "character": "\ud83d\ude0e",
+        "codepoint": 128526,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude0f",
+        "codepoint": 128527,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude10",
+        "codepoint": 128528,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude11",
+        "codepoint": 128529,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude12",
+        "codepoint": 128530,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude13",
+        "codepoint": 128531,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude14",
+        "codepoint": 128532,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude15",
+        "codepoint": 128533,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude16",
+        "codepoint": 128534,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude17",
+        "codepoint": 128535,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude18",
+        "codepoint": 128536,
+        "width": 19,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 22
+      },
+      {
+        "character": "\ud83d\ude19",
+        "codepoint": 128537,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1a",
+        "codepoint": 128538,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1b",
+        "codepoint": 128539,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1c",
+        "codepoint": 128540,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1d",
+        "codepoint": 128541,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1e",
+        "codepoint": 128542,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude1f",
+        "codepoint": 128543,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude20",
+        "codepoint": 128544,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude21",
+        "codepoint": 128545,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude22",
+        "codepoint": 128546,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude23",
+        "codepoint": 128547,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude24",
+        "codepoint": 128548,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude25",
+        "codepoint": 128549,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude26",
+        "codepoint": 128550,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude27",
+        "codepoint": 128551,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude28",
+        "codepoint": 128552,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude29",
+        "codepoint": 128553,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2a",
+        "codepoint": 128554,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2b",
+        "codepoint": 128555,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2c",
+        "codepoint": 128556,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2d",
+        "codepoint": 128557,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2e",
+        "codepoint": 128558,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude2f",
+        "codepoint": 128559,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude30",
+        "codepoint": 128560,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 21
+      },
+      {
+        "character": "\ud83d\ude31",
+        "codepoint": 128561,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude32",
+        "codepoint": 128562,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude33",
+        "codepoint": 128563,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude34",
+        "codepoint": 128564,
+        "width": 16,
+        "height": 17,
+        "left": 1,
+        "top": 11,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude35",
+        "codepoint": 128565,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude36",
+        "codepoint": 128566,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude37",
+        "codepoint": 128567,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude38",
+        "codepoint": 128568,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude39",
+        "codepoint": 128569,
+        "width": 19,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 22
+      },
+      {
+        "character": "\ud83d\ude3a",
+        "codepoint": 128570,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3b",
+        "codepoint": 128571,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3c",
+        "codepoint": 128572,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3d",
+        "codepoint": 128573,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3e",
+        "codepoint": 128574,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude3f",
+        "codepoint": 128575,
+        "width": 17,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\ude40",
+        "codepoint": 128576,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude41",
+        "codepoint": 128577,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude42",
+        "codepoint": 128578,
+        "width": 16,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 19
+      },
+      {
+        "character": "\ud83d\ude48",
+        "codepoint": 128584,
+        "width": 18,
+        "height": 16,
+        "left": 1,
+        "top": 12,
+        "advance": 20
+      },
+      {
+        "character": "\ud83d\ude4c",
+        "codepoint": 128588,
+        "width": 21,
+        "height": 18,
+        "left": 1,
+        "top": 10,
+        "advance": 24
+      },
+      {
+        "character": "\ud83d\ude4f",
+        "codepoint": 128591,
+        "width": 19,
+        "height": 18,
+        "left": 1,
+        "top": 10,
+        "advance": 22
+      }
+    ]
+  }
+}
