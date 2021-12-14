@@ -6,12 +6,20 @@ output="$output
 
 ## Current Emojis
 
-| Emoji | Filename |
-|:-----:|----------|
+| Emoji | Small | Large |
+|:-----:|:-----:|:-----:|
 "
 
-for f in $(ls emoji); do
-	output="${output}| ![Emoji of ${f}](emoji/${f}) | \`${f}\` |
+all_small=( emoji/*-sm.png )
+all_large=( emoji/*-lg.png )
+all=("${all_small[@]%-sm.png}" "${all_large[@]%-lg.png}")
+all=( "${all[@]#emoji/}" )
+all=($(printf "%s\n" "${all[@],,}" | sort -u))
+
+for f in ${all[@]}; do
+	small=$(find emoji/ -maxdepth 1 -iname ${f}-sm.png)
+	large=$(find emoji/ -maxdepth 1 -iname ${f}-lg.png)
+	output="${output}| $(echo -en "\U$f") | ![${small}](${small}) | ![${large}](${large}) |
 "
 done
 
