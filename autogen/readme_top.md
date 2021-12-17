@@ -18,6 +18,8 @@ Follow these steps to contribute:
 
 Each emoji has a small version (roughly 11x11px) and a large version (roughly 18x18px) and should be in `PNG` format.
 
+Typically the background is white and the emoji is black. The black should touch each side so there's no entirely blank column or row along all the outside edges.
+
 The image filename should follow the format '`codepoint`-`sizecode`.png'
 
 The sizecodes are `sm` for small and `lg` for large.
