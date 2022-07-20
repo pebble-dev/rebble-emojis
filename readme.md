@@ -37,31 +37,27 @@ For example, the [star emoji](https://emojipedia.org/star) file in large would b
 | 🍀 | ![emoji/1f340-sm.png](emoji/1f340-sm.png) | ![emoji/1f340-lg.png](emoji/1f340-lg.png) |
 | 🎶 | ![emoji/1f3b6-sm.png](emoji/1f3b6-sm.png) | ![emoji/1f3b6-lg.png](emoji/1f3b6-lg.png) |
 | 🏳 | ![emoji/1f3f3-sm.png](emoji/1f3f3-sm.png) | ![emoji/1f3f3-lg.png](emoji/1f3f3-lg.png) |
-| 👀 | ![emoji/1F440-sm.png](emoji/1F440-sm.png) | ![emoji/1F440-lg.png](emoji/1F440-lg.png) |
-| 💀 | ![emoji/1F480-sm.png](emoji/1F480-sm.png) | ![emoji/1F480-lg.png](emoji/1F480-lg.png) |
-| 💓 | ![emoji/1F493-sm.png](emoji/1F493-sm.png) | ![emoji/1F493-lg.png](emoji/1F493-lg.png) |
-| 💔 | ![emoji/1F494-sm.png](emoji/1F494-sm.png) | ![emoji/1F494-lg.png](emoji/1F494-lg.png) |
-| 💕 | ![emoji/1F495-sm.png](emoji/1F495-sm.png) | ![emoji/1F495-lg.png](emoji/1F495-lg.png) |
-| 💖 | ![emoji/1F496-sm.png](emoji/1F496-sm.png) | ![emoji/1F496-lg.png](emoji/1F496-lg.png) |
-| 💗 | ![emoji/1F497-sm.png](emoji/1F497-sm.png) | ![emoji/1F497-lg.png](emoji/1F497-lg.png) |
-| 💘 | ![emoji/1F498-sm.png](emoji/1F498-sm.png) | ![emoji/1F498-lg.png](emoji/1F498-lg.png) |
-| 💙 | ![emoji/1F499-sm.png](emoji/1F499-sm.png) | ![emoji/1F499-lg.png](emoji/1F499-lg.png) |
-| 💚 | ![emoji/1F49A-sm.png](emoji/1F49A-sm.png) | ![emoji/1F49A-lg.png](emoji/1F49A-lg.png) |
-| 💛 | ![emoji/1F49B-sm.png](emoji/1F49B-sm.png) | ![emoji/1F49B-lg.png](emoji/1F49B-lg.png) |
-| 💜 | ![emoji/1F49C-sm.png](emoji/1F49C-sm.png) | ![emoji/1F49C-lg.png](emoji/1F49C-lg.png) |
-| 💝 | ![emoji/1F49D-sm.png](emoji/1F49D-sm.png) | ![emoji/1F49D-lg.png](emoji/1F49D-lg.png) |
-| 💞 | ![emoji/1F49E-sm.png](emoji/1F49E-sm.png) | ![emoji/1F49E-lg.png](emoji/1F49E-lg.png) |
-| 💟 | ![emoji/1F49F-sm.png](emoji/1F49F-sm.png) | ![emoji/1F49F-lg.png](emoji/1F49F-lg.png) |
-| 💡 | ![emoji/1F4A1-sm.png](emoji/1F4A1-sm.png) | ![emoji/1F4A1-lg.png](emoji/1F4A1-lg.png) |
-| 💣 | ![emoji/1F4A3-sm.png](emoji/1F4A3-sm.png) | ![emoji/1F4A3-lg.png](emoji/1F4A3-lg.png) |
+| 👀 | ![emoji/1f440-sm.png](emoji/1f440-sm.png) | ![emoji/1f440-lg.png](emoji/1f440-lg.png) |
+| 💀 | ![emoji/1f480-sm.png](emoji/1f480-sm.png) | ![emoji/1f480-lg.png](emoji/1f480-lg.png) |
+| 💓 | ![emoji/1f493-sm.png](emoji/1f493-sm.png) | ![emoji/1f493-lg.png](emoji/1f493-lg.png) |
+| 💔 | ![emoji/1f494-sm.png](emoji/1f494-sm.png) | ![emoji/1f494-lg.png](emoji/1f494-lg.png) |
+| 💕 | ![emoji/1f495-sm.png](emoji/1f495-sm.png) | ![emoji/1f495-lg.png](emoji/1f495-lg.png) |
+| 💖 | ![emoji/1f496-sm.png](emoji/1f496-sm.png) | ![emoji/1f496-lg.png](emoji/1f496-lg.png) |
+| 💗 | ![emoji/1f497-sm.png](emoji/1f497-sm.png) | ![emoji/1f497-lg.png](emoji/1f497-lg.png) |
+| 💘 | ![emoji/1f498-sm.png](emoji/1f498-sm.png) | ![emoji/1f498-lg.png](emoji/1f498-lg.png) |
+| 💙 | ![emoji/1f499-sm.png](emoji/1f499-sm.png) | ![emoji/1f499-lg.png](emoji/1f499-lg.png) |
+| 💚 | ![emoji/1f49a-sm.png](emoji/1f49a-sm.png) | ![emoji/1f49a-lg.png](emoji/1f49a-lg.png) |
+| 💛 | ![emoji/1f49b-sm.png](emoji/1f49b-sm.png) | ![emoji/1f49b-lg.png](emoji/1f49b-lg.png) |
+| 💜 | ![emoji/1f49c-sm.png](emoji/1f49c-sm.png) | ![emoji/1f49c-lg.png](emoji/1f49c-lg.png) |
+| 💝 | ![emoji/1f49d-sm.png](emoji/1f49d-sm.png) | ![emoji/1f49d-lg.png](emoji/1f49d-lg.png) |
+| 💞 | ![emoji/1f49e-sm.png](emoji/1f49e-sm.png) | ![emoji/1f49e-lg.png](emoji/1f49e-lg.png) |
+| 💟 | ![emoji/1f49f-sm.png](emoji/1f49f-sm.png) | ![emoji/1f49f-lg.png](emoji/1f49f-lg.png) |
+| 💡 | ![emoji/1f4a1-sm.png](emoji/1f4a1-sm.png) | ![emoji/1f4a1-lg.png](emoji/1f4a1-lg.png) |
+| 💣 | ![emoji/1f4a3-sm.png](emoji/1f4a3-sm.png) | ![emoji/1f4a3-lg.png](emoji/1f4a3-lg.png) |
 | 💥 | ![emoji/1f4a5-sm.png](emoji/1f4a5-sm.png) | ![emoji/1f4a5-lg.png](emoji/1f4a5-lg.png) |
 | 💯 | ![emoji/1f4af-sm.png](emoji/1f4af-sm.png) | ![emoji/1f4af-lg.png](emoji/1f4af-lg.png) |
 | 🔥 | ![emoji/1f525-sm.png](emoji/1f525-sm.png) | ![emoji/1f525-lg.png](emoji/1f525-lg.png) |
-| 🖤 | ![emoji/1f5a4-sm.png
-emoji/1F5A4-sm.png](emoji/1f5a4-sm.png
-emoji/1F5A4-sm.png) | ![emoji/1f5a4-lg.png
-emoji/1F5A4-lg.png](emoji/1f5a4-lg.png
-emoji/1F5A4-lg.png) |
+| 🖤 | ![emoji/1f5a4-sm.png](emoji/1f5a4-sm.png) | ![emoji/1f5a4-lg.png](emoji/1f5a4-lg.png) |
 | 🙃 | ![emoji/1f643-sm.png](emoji/1f643-sm.png) | ![emoji/1f643-lg.png](emoji/1f643-lg.png) |
 | 🙄 | ![emoji/1f644-sm.png](emoji/1f644-sm.png) | ![emoji/1f644-lg.png](emoji/1f644-lg.png) |
 | 🤗 | ![emoji/1f917-sm.png](emoji/1f917-sm.png) | ![emoji/1f917-lg.png](emoji/1f917-lg.png) |
@@ -72,7 +68,7 @@ emoji/1F5A4-lg.png) |
 | 🤩 | ![emoji/1f929-sm.png](emoji/1f929-sm.png) | ![emoji/1f929-lg.png](emoji/1f929-lg.png) |
 | 🤪 | ![emoji/1f92a-sm.png](emoji/1f92a-sm.png) | ![emoji/1f92a-lg.png](emoji/1f92a-lg.png) |
 | 🤬 | ![emoji/1f92c-sm.png](emoji/1f92c-sm.png) | ![emoji/1f92c-lg.png](emoji/1f92c-lg.png) |
-| 🤮 | ![emoji/1F92E-sm.png](emoji/1F92E-sm.png) | ![emoji/1F92E-lg.png](emoji/1F92E-lg.png) |
+| 🤮 | ![emoji/1f92e-sm.png](emoji/1f92e-sm.png) | ![emoji/1f92e-lg.png](emoji/1f92e-lg.png) |
 | 🥰 | ![emoji/1f970-sm.png](emoji/1f970-sm.png) | ![emoji/1f970-lg.png](emoji/1f970-lg.png) |
 | 🥺 | ![emoji/1f97a-sm.png](emoji/1f97a-sm.png) | ![emoji/1f97a-lg.png](emoji/1f97a-lg.png) |
 | ⌚ | ![emoji/231a-sm.png](emoji/231a-sm.png) | ![emoji/231a-lg.png](emoji/231a-lg.png) |
@@ -86,5 +82,5 @@ emoji/1F5A4-lg.png) |
 | ❤ | ![emoji/2764-sm.png](emoji/2764-sm.png) | ![emoji/2764-lg.png](emoji/2764-lg.png) |
 | ⭐ | ![emoji/2b50-sm.png](emoji/2b50-sm.png) | ![emoji/2b50-lg.png](emoji/2b50-lg.png) |
 
-> Readme autogenerated @ Wed Jul 20 15:18:56 UTC 2022
+> Readme autogenerated @ Wed Jul 20 15:24:05 UTC 2022
 
