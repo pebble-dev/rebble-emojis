@@ -1,0 +1,4404 @@
+{
+  "source": "AMBERMOJIS_11.pbf",
+  "version": 3,
+  "max_height": 11,
+  "wildcard_codepoint": 9647,
+  "hash_table_size": 255,
+  "codepoint_bytes": 4,
+  "features": {
+    "offset_16": true,
+    "rle4": false
+  },
+  "glyphs": [
+    {
+      "codepoint": 169,
+      "char": "\u00a9",
+      "file": "glyphs/U+00A9.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 174,
+      "char": "\u00ae",
+      "file": "glyphs/U+00AE.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 8252,
+      "char": "\u203c",
+      "file": "glyphs/U+203C.png",
+      "width": 6,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 8
+    },
+    {
+      "codepoint": 8265,
+      "char": "\u2049",
+      "file": "glyphs/U+2049.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 8482,
+      "char": "\u2122",
+      "file": "glyphs/U+2122.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 8505,
+      "char": "\u2139",
+      "file": "glyphs/U+2139.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9200,
+      "char": "\u23f0",
+      "file": "glyphs/U+23F0.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 9647,
+      "char": "\u25af",
+      "file": "glyphs/U+25AF.png",
+      "width": 0,
+      "height": 0,
+      "left_offset": 0,
+      "top_offset": 11,
+      "advance": 11
+    },
+    {
+      "codepoint": 9654,
+      "char": "\u25b6",
+      "file": "glyphs/U+25B6.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 9728,
+      "char": "\u2600",
+      "file": "glyphs/U+2600.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9729,
+      "char": "\u2601",
+      "file": "glyphs/U+2601.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9742,
+      "char": "\u260e",
+      "file": "glyphs/U+260E.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 9745,
+      "char": "\u2611",
+      "file": "glyphs/U+2611.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9749,
+      "char": "\u2615",
+      "file": "glyphs/U+2615.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 9752,
+      "char": "\u2618",
+      "file": "glyphs/U+2618.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9757,
+      "char": "\u261d",
+      "file": "glyphs/U+261D.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 9760,
+      "char": "\u2620",
+      "file": "glyphs/U+2620.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9785,
+      "char": "\u2639",
+      "file": "glyphs/U+2639.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9786,
+      "char": "\u263a",
+      "file": "glyphs/U+263A.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 9829,
+      "char": "\u2665",
+      "file": "glyphs/U+2665.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9854,
+      "char": "\u267e",
+      "file": "glyphs/U+267E.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 9876,
+      "char": "\u2694",
+      "file": "glyphs/U+2694.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 9877,
+      "char": "\u2695",
+      "file": "glyphs/U+2695.png",
+      "width": 8,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 10
+    },
+    {
+      "codepoint": 9881,
+      "char": "\u2699",
+      "file": "glyphs/U+2699.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9888,
+      "char": "\u26a0",
+      "file": "glyphs/U+26A0.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9889,
+      "char": "\u26a1",
+      "file": "glyphs/U+26A1.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9898,
+      "char": "\u26aa",
+      "file": "glyphs/U+26AA.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9899,
+      "char": "\u26ab",
+      "file": "glyphs/U+26AB.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9917,
+      "char": "\u26bd",
+      "file": "glyphs/U+26BD.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9989,
+      "char": "\u2705",
+      "file": "glyphs/U+2705.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9992,
+      "char": "\u2708",
+      "file": "glyphs/U+2708.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9993,
+      "char": "\u2709",
+      "file": "glyphs/U+2709.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 9994,
+      "char": "\u270a",
+      "file": "glyphs/U+270A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 9995,
+      "char": "\u270b",
+      "file": "glyphs/U+270B.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 9996,
+      "char": "\u270c",
+      "file": "glyphs/U+270C.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 9997,
+      "char": "\u270d",
+      "file": "glyphs/U+270D.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 9999,
+      "char": "\u270f",
+      "file": "glyphs/U+270F.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 10004,
+      "char": "\u2714",
+      "file": "glyphs/U+2714.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 10024,
+      "char": "\u2728",
+      "file": "glyphs/U+2728.png",
+      "width": 19,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 10052,
+      "char": "\u2744",
+      "file": "glyphs/U+2744.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 10060,
+      "char": "\u274c",
+      "file": "glyphs/U+274C.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 10067,
+      "char": "\u2753",
+      "file": "glyphs/U+2753.png",
+      "width": 7,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 9
+    },
+    {
+      "codepoint": 10071,
+      "char": "\u2757",
+      "file": "glyphs/U+2757.png",
+      "width": 2,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 4
+    },
+    {
+      "codepoint": 10083,
+      "char": "\u2763",
+      "file": "glyphs/U+2763.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 10084,
+      "char": "\u2764",
+      "file": "glyphs/U+2764.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 10145,
+      "char": "\u27a1",
+      "file": "glyphs/U+27A1.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 11013,
+      "char": "\u2b05",
+      "file": "glyphs/U+2B05.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 11014,
+      "char": "\u2b06",
+      "file": "glyphs/U+2B06.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 11015,
+      "char": "\u2b07",
+      "file": "glyphs/U+2B07.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 11088,
+      "char": "\u2b50",
+      "file": "glyphs/U+2B50.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127747,
+      "char": "\ud83c\udf03",
+      "file": "glyphs/U+1F303.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127748,
+      "char": "\ud83c\udf04",
+      "file": "glyphs/U+1F304.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127752,
+      "char": "\ud83c\udf08",
+      "file": "glyphs/U+1F308.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 127754,
+      "char": "\ud83c\udf0a",
+      "file": "glyphs/U+1F30A.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127757,
+      "char": "\ud83c\udf0d",
+      "file": "glyphs/U+1F30D.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127758,
+      "char": "\ud83c\udf0e",
+      "file": "glyphs/U+1F30E.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127759,
+      "char": "\ud83c\udf0f",
+      "file": "glyphs/U+1F30F.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127760,
+      "char": "\ud83c\udf10",
+      "file": "glyphs/U+1F310.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127762,
+      "char": "\ud83c\udf12",
+      "file": "glyphs/U+1F312.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127769,
+      "char": "\ud83c\udf19",
+      "file": "glyphs/U+1F319.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127770,
+      "char": "\ud83c\udf1a",
+      "file": "glyphs/U+1F31A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127773,
+      "char": "\ud83c\udf1d",
+      "file": "glyphs/U+1F31D.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127774,
+      "char": "\ud83c\udf1e",
+      "file": "glyphs/U+1F31E.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127775,
+      "char": "\ud83c\udf1f",
+      "file": "glyphs/U+1F31F.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 127783,
+      "char": "\ud83c\udf27",
+      "file": "glyphs/U+1F327.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127790,
+      "char": "\ud83c\udf2e",
+      "file": "glyphs/U+1F32E.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 127793,
+      "char": "\ud83c\udf31",
+      "file": "glyphs/U+1F331.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127795,
+      "char": "\ud83c\udf33",
+      "file": "glyphs/U+1F333.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127796,
+      "char": "\ud83c\udf34",
+      "file": "glyphs/U+1F334.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127799,
+      "char": "\ud83c\udf37",
+      "file": "glyphs/U+1F337.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 127800,
+      "char": "\ud83c\udf38",
+      "file": "glyphs/U+1F338.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127801,
+      "char": "\ud83c\udf39",
+      "file": "glyphs/U+1F339.png",
+      "width": 7,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 9
+    },
+    {
+      "codepoint": 127802,
+      "char": "\ud83c\udf3a",
+      "file": "glyphs/U+1F33A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127803,
+      "char": "\ud83c\udf3b",
+      "file": "glyphs/U+1F33B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127804,
+      "char": "\ud83c\udf3c",
+      "file": "glyphs/U+1F33C.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127807,
+      "char": "\ud83c\udf3f",
+      "file": "glyphs/U+1F33F.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 127808,
+      "char": "\ud83c\udf40",
+      "file": "glyphs/U+1F340.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127809,
+      "char": "\ud83c\udf41",
+      "file": "glyphs/U+1F341.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127810,
+      "char": "\ud83c\udf42",
+      "file": "glyphs/U+1F342.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127811,
+      "char": "\ud83c\udf43",
+      "file": "glyphs/U+1F343.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 127814,
+      "char": "\ud83c\udf46",
+      "file": "glyphs/U+1F346.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127815,
+      "char": "\ud83c\udf47",
+      "file": "glyphs/U+1F347.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127816,
+      "char": "\ud83c\udf48",
+      "file": "glyphs/U+1F348.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127820,
+      "char": "\ud83c\udf4c",
+      "file": "glyphs/U+1F34C.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127822,
+      "char": "\ud83c\udf4e",
+      "file": "glyphs/U+1F34E.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127823,
+      "char": "\ud83c\udf4f",
+      "file": "glyphs/U+1F34F.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127825,
+      "char": "\ud83c\udf51",
+      "file": "glyphs/U+1F351.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127826,
+      "char": "\ud83c\udf52",
+      "file": "glyphs/U+1F352.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127827,
+      "char": "\ud83c\udf53",
+      "file": "glyphs/U+1F353.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 127828,
+      "char": "\ud83c\udf54",
+      "file": "glyphs/U+1F354.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127829,
+      "char": "\ud83c\udf55",
+      "file": "glyphs/U+1F355.png",
+      "width": 11,
+      "height": 12,
+      "left_offset": 1,
+      "top_offset": -1,
+      "advance": 13
+    },
+    {
+      "codepoint": 127851,
+      "char": "\ud83c\udf6b",
+      "file": "glyphs/U+1F36B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127853,
+      "char": "\ud83c\udf6d",
+      "file": "glyphs/U+1F36D.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127856,
+      "char": "\ud83c\udf70",
+      "file": "glyphs/U+1F370.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127863,
+      "char": "\ud83c\udf77",
+      "file": "glyphs/U+1F377.png",
+      "width": 7,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 9
+    },
+    {
+      "codepoint": 127866,
+      "char": "\ud83c\udf7a",
+      "file": "glyphs/U+1F37A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127867,
+      "char": "\ud83c\udf7b",
+      "file": "glyphs/U+1F37B.png",
+      "width": 21,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 23
+    },
+    {
+      "codepoint": 127868,
+      "char": "\ud83c\udf7c",
+      "file": "glyphs/U+1F37C.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127869,
+      "char": "\ud83c\udf7d",
+      "file": "glyphs/U+1F37D.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 127870,
+      "char": "\ud83c\udf7e",
+      "file": "glyphs/U+1F37E.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127872,
+      "char": "\ud83c\udf80",
+      "file": "glyphs/U+1F380.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127873,
+      "char": "\ud83c\udf81",
+      "file": "glyphs/U+1F381.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 127874,
+      "char": "\ud83c\udf82",
+      "file": "glyphs/U+1F382.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127875,
+      "char": "\ud83c\udf83",
+      "file": "glyphs/U+1F383.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127876,
+      "char": "\ud83c\udf84",
+      "file": "glyphs/U+1F384.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 127877,
+      "char": "\ud83c\udf85",
+      "file": "glyphs/U+1F385.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127878,
+      "char": "\ud83c\udf86",
+      "file": "glyphs/U+1F386.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127880,
+      "char": "\ud83c\udf88",
+      "file": "glyphs/U+1F388.png",
+      "width": 8,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 10
+    },
+    {
+      "codepoint": 127881,
+      "char": "\ud83c\udf89",
+      "file": "glyphs/U+1F389.png",
+      "width": 22,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 24
+    },
+    {
+      "codepoint": 127882,
+      "char": "\ud83c\udf8a",
+      "file": "glyphs/U+1F38A.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 127891,
+      "char": "\ud83c\udf93",
+      "file": "glyphs/U+1F393.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 127897,
+      "char": "\ud83c\udf99",
+      "file": "glyphs/U+1F399.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 127903,
+      "char": "\ud83c\udf9f",
+      "file": "glyphs/U+1F39F.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 127908,
+      "char": "\ud83c\udfa4",
+      "file": "glyphs/U+1F3A4.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127909,
+      "char": "\ud83c\udfa5",
+      "file": "glyphs/U+1F3A5.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 127911,
+      "char": "\ud83c\udfa7",
+      "file": "glyphs/U+1F3A7.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127912,
+      "char": "\ud83c\udfa8",
+      "file": "glyphs/U+1F3A8.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127915,
+      "char": "\ud83c\udfab",
+      "file": "glyphs/U+1F3AB.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 127916,
+      "char": "\ud83c\udfac",
+      "file": "glyphs/U+1F3AC.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127917,
+      "char": "\ud83c\udfad",
+      "file": "glyphs/U+1F3AD.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127918,
+      "char": "\ud83c\udfae",
+      "file": "glyphs/U+1F3AE.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127919,
+      "char": "\ud83c\udfaf",
+      "file": "glyphs/U+1F3AF.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127925,
+      "char": "\ud83c\udfb5",
+      "file": "glyphs/U+1F3B5.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127926,
+      "char": "\ud83c\udfb6",
+      "file": "glyphs/U+1F3B6.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127928,
+      "char": "\ud83c\udfb8",
+      "file": "glyphs/U+1F3B8.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127932,
+      "char": "\ud83c\udfbc",
+      "file": "glyphs/U+1F3BC.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127936,
+      "char": "\ud83c\udfc0",
+      "file": "glyphs/U+1F3C0.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127939,
+      "char": "\ud83c\udfc3",
+      "file": "glyphs/U+1F3C3.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 127942,
+      "char": "\ud83c\udfc6",
+      "file": "glyphs/U+1F3C6.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127958,
+      "char": "\ud83c\udfd6",
+      "file": "glyphs/U+1F3D6.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127968,
+      "char": "\ud83c\udfe0",
+      "file": "glyphs/U+1F3E0.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 127969,
+      "char": "\ud83c\udfe1",
+      "file": "glyphs/U+1F3E1.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 127987,
+      "char": "\ud83c\udff3",
+      "file": "glyphs/U+1F3F3.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128007,
+      "char": "\ud83d\udc07",
+      "file": "glyphs/U+1F407.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128008,
+      "char": "\ud83d\udc08",
+      "file": "glyphs/U+1F408.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128021,
+      "char": "\ud83d\udc15",
+      "file": "glyphs/U+1F415.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128029,
+      "char": "\ud83d\udc1d",
+      "file": "glyphs/U+1F41D.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128031,
+      "char": "\ud83d\udc1f",
+      "file": "glyphs/U+1F41F.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128034,
+      "char": "\ud83d\udc22",
+      "file": "glyphs/U+1F422.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 128035,
+      "char": "\ud83d\udc23",
+      "file": "glyphs/U+1F423.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128037,
+      "char": "\ud83d\udc25",
+      "file": "glyphs/U+1F425.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128048,
+      "char": "\ud83d\udc30",
+      "file": "glyphs/U+1F430.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128049,
+      "char": "\ud83d\udc31",
+      "file": "glyphs/U+1F431.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128053,
+      "char": "\ud83d\udc35",
+      "file": "glyphs/U+1F435.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128054,
+      "char": "\ud83d\udc36",
+      "file": "glyphs/U+1F436.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128055,
+      "char": "\ud83d\udc37",
+      "file": "glyphs/U+1F437.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128056,
+      "char": "\ud83d\udc38",
+      "file": "glyphs/U+1F438.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128059,
+      "char": "\ud83d\udc3b",
+      "file": "glyphs/U+1F43B.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128062,
+      "char": "\ud83d\udc3e",
+      "file": "glyphs/U+1F43E.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 128064,
+      "char": "\ud83d\udc40",
+      "file": "glyphs/U+1F440.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128065,
+      "char": "\ud83d\udc41",
+      "file": "glyphs/U+1F441.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128068,
+      "char": "\ud83d\udc44",
+      "file": "glyphs/U+1F444.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128069,
+      "char": "\ud83d\udc45",
+      "file": "glyphs/U+1F445.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128070,
+      "char": "\ud83d\udc46",
+      "file": "glyphs/U+1F446.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128071,
+      "char": "\ud83d\udc47",
+      "file": "glyphs/U+1F447.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128072,
+      "char": "\ud83d\udc48",
+      "file": "glyphs/U+1F448.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128073,
+      "char": "\ud83d\udc49",
+      "file": "glyphs/U+1F449.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128074,
+      "char": "\ud83d\udc4a",
+      "file": "glyphs/U+1F44A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128075,
+      "char": "\ud83d\udc4b",
+      "file": "glyphs/U+1F44B.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128076,
+      "char": "\ud83d\udc4c",
+      "file": "glyphs/U+1F44C.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 128077,
+      "char": "\ud83d\udc4d",
+      "file": "glyphs/U+1F44D.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 128078,
+      "char": "\ud83d\udc4e",
+      "file": "glyphs/U+1F44E.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 128079,
+      "char": "\ud83d\udc4f",
+      "file": "glyphs/U+1F44F.png",
+      "width": 21,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 23
+    },
+    {
+      "codepoint": 128080,
+      "char": "\ud83d\udc50",
+      "file": "glyphs/U+1F450.png",
+      "width": 21,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 23
+    },
+    {
+      "codepoint": 128081,
+      "char": "\ud83d\udc51",
+      "file": "glyphs/U+1F451.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128118,
+      "char": "\ud83d\udc76",
+      "file": "glyphs/U+1F476.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128121,
+      "char": "\ud83d\udc79",
+      "file": "glyphs/U+1F479.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128122,
+      "char": "\ud83d\udc7a",
+      "file": "glyphs/U+1F47A.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128123,
+      "char": "\ud83d\udc7b",
+      "file": "glyphs/U+1F47B.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128125,
+      "char": "\ud83d\udc7d",
+      "file": "glyphs/U+1F47D.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128126,
+      "char": "\ud83d\udc7e",
+      "file": "glyphs/U+1F47E.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 128127,
+      "char": "\ud83d\udc7f",
+      "file": "glyphs/U+1F47F.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128128,
+      "char": "\ud83d\udc80",
+      "file": "glyphs/U+1F480.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128129,
+      "char": "\ud83d\udc81",
+      "file": "glyphs/U+1F481.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128131,
+      "char": "\ud83d\udc83",
+      "file": "glyphs/U+1F483.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 128133,
+      "char": "\ud83d\udc85",
+      "file": "glyphs/U+1F485.png",
+      "width": 16,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 128139,
+      "char": "\ud83d\udc8b",
+      "file": "glyphs/U+1F48B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128140,
+      "char": "\ud83d\udc8c",
+      "file": "glyphs/U+1F48C.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128141,
+      "char": "\ud83d\udc8d",
+      "file": "glyphs/U+1F48D.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 128142,
+      "char": "\ud83d\udc8e",
+      "file": "glyphs/U+1F48E.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128144,
+      "char": "\ud83d\udc90",
+      "file": "glyphs/U+1F490.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128147,
+      "char": "\ud83d\udc93",
+      "file": "glyphs/U+1F493.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128148,
+      "char": "\ud83d\udc94",
+      "file": "glyphs/U+1F494.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128149,
+      "char": "\ud83d\udc95",
+      "file": "glyphs/U+1F495.png",
+      "width": 16,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 128150,
+      "char": "\ud83d\udc96",
+      "file": "glyphs/U+1F496.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128151,
+      "char": "\ud83d\udc97",
+      "file": "glyphs/U+1F497.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128152,
+      "char": "\ud83d\udc98",
+      "file": "glyphs/U+1F498.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128153,
+      "char": "\ud83d\udc99",
+      "file": "glyphs/U+1F499.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128154,
+      "char": "\ud83d\udc9a",
+      "file": "glyphs/U+1F49A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128155,
+      "char": "\ud83d\udc9b",
+      "file": "glyphs/U+1F49B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128156,
+      "char": "\ud83d\udc9c",
+      "file": "glyphs/U+1F49C.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128157,
+      "char": "\ud83d\udc9d",
+      "file": "glyphs/U+1F49D.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128158,
+      "char": "\ud83d\udc9e",
+      "file": "glyphs/U+1F49E.png",
+      "width": 16,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 128159,
+      "char": "\ud83d\udc9f",
+      "file": "glyphs/U+1F49F.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128161,
+      "char": "\ud83d\udca1",
+      "file": "glyphs/U+1F4A1.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 128162,
+      "char": "\ud83d\udca2",
+      "file": "glyphs/U+1F4A2.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128163,
+      "char": "\ud83d\udca3",
+      "file": "glyphs/U+1F4A3.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128164,
+      "char": "\ud83d\udca4",
+      "file": "glyphs/U+1F4A4.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128165,
+      "char": "\ud83d\udca5",
+      "file": "glyphs/U+1F4A5.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128166,
+      "char": "\ud83d\udca6",
+      "file": "glyphs/U+1F4A6.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128167,
+      "char": "\ud83d\udca7",
+      "file": "glyphs/U+1F4A7.png",
+      "width": 7,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 9
+    },
+    {
+      "codepoint": 128168,
+      "char": "\ud83d\udca8",
+      "file": "glyphs/U+1F4A8.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128169,
+      "char": "\ud83d\udca9",
+      "file": "glyphs/U+1F4A9.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128170,
+      "char": "\ud83d\udcaa",
+      "file": "glyphs/U+1F4AA.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128171,
+      "char": "\ud83d\udcab",
+      "file": "glyphs/U+1F4AB.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128172,
+      "char": "\ud83d\udcac",
+      "file": "glyphs/U+1F4AC.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128173,
+      "char": "\ud83d\udcad",
+      "file": "glyphs/U+1F4AD.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128175,
+      "char": "\ud83d\udcaf",
+      "file": "glyphs/U+1F4AF.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128176,
+      "char": "\ud83d\udcb0",
+      "file": "glyphs/U+1F4B0.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128181,
+      "char": "\ud83d\udcb5",
+      "file": "glyphs/U+1F4B5.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128184,
+      "char": "\ud83d\udcb8",
+      "file": "glyphs/U+1F4B8.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128187,
+      "char": "\ud83d\udcbb",
+      "file": "glyphs/U+1F4BB.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128197,
+      "char": "\ud83d\udcc5",
+      "file": "glyphs/U+1F4C5.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 128200,
+      "char": "\ud83d\udcc8",
+      "file": "glyphs/U+1F4C8.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128202,
+      "char": "\ud83d\udcca",
+      "file": "glyphs/U+1F4CA.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128203,
+      "char": "\ud83d\udccb",
+      "file": "glyphs/U+1F4CB.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 128204,
+      "char": "\ud83d\udccc",
+      "file": "glyphs/U+1F4CC.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128205,
+      "char": "\ud83d\udccd",
+      "file": "glyphs/U+1F4CD.png",
+      "width": 5,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 7
+    },
+    {
+      "codepoint": 128214,
+      "char": "\ud83d\udcd6",
+      "file": "glyphs/U+1F4D6.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 128218,
+      "char": "\ud83d\udcda",
+      "file": "glyphs/U+1F4DA.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128220,
+      "char": "\ud83d\udcdc",
+      "file": "glyphs/U+1F4DC.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128221,
+      "char": "\ud83d\udcdd",
+      "file": "glyphs/U+1F4DD.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128222,
+      "char": "\ud83d\udcde",
+      "file": "glyphs/U+1F4DE.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128226,
+      "char": "\ud83d\udce2",
+      "file": "glyphs/U+1F4E2.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128227,
+      "char": "\ud83d\udce3",
+      "file": "glyphs/U+1F4E3.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128230,
+      "char": "\ud83d\udce6",
+      "file": "glyphs/U+1F4E6.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128231,
+      "char": "\ud83d\udce7",
+      "file": "glyphs/U+1F4E7.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128240,
+      "char": "\ud83d\udcf0",
+      "file": "glyphs/U+1F4F0.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128241,
+      "char": "\ud83d\udcf1",
+      "file": "glyphs/U+1F4F1.png",
+      "width": 7,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 9
+    },
+    {
+      "codepoint": 128242,
+      "char": "\ud83d\udcf2",
+      "file": "glyphs/U+1F4F2.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128247,
+      "char": "\ud83d\udcf7",
+      "file": "glyphs/U+1F4F7.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128248,
+      "char": "\ud83d\udcf8",
+      "file": "glyphs/U+1F4F8.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 128250,
+      "char": "\ud83d\udcfa",
+      "file": "glyphs/U+1F4FA.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128266,
+      "char": "\ud83d\udd0a",
+      "file": "glyphs/U+1F50A.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128269,
+      "char": "\ud83d\udd0d",
+      "file": "glyphs/U+1F50D.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128270,
+      "char": "\ud83d\udd0e",
+      "file": "glyphs/U+1F50E.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128273,
+      "char": "\ud83d\udd11",
+      "file": "glyphs/U+1F511.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128274,
+      "char": "\ud83d\udd12",
+      "file": "glyphs/U+1F512.png",
+      "width": 9,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 11
+    },
+    {
+      "codepoint": 128276,
+      "char": "\ud83d\udd14",
+      "file": "glyphs/U+1F514.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128279,
+      "char": "\ud83d\udd17",
+      "file": "glyphs/U+1F517.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128293,
+      "char": "\ud83d\udd25",
+      "file": "glyphs/U+1F525.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128298,
+      "char": "\ud83d\udd2a",
+      "file": "glyphs/U+1F52A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128299,
+      "char": "\ud83d\udd2b",
+      "file": "glyphs/U+1F52B.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128305,
+      "char": "\ud83d\udd31",
+      "file": "glyphs/U+1F531.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128330,
+      "char": "\ud83d\udd4a",
+      "file": "glyphs/U+1F54A.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128378,
+      "char": "\ud83d\udd7a",
+      "file": "glyphs/U+1F57A.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 128400,
+      "char": "\ud83d\udd90",
+      "file": "glyphs/U+1F590.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128405,
+      "char": "\ud83d\udd95",
+      "file": "glyphs/U+1F595.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128406,
+      "char": "\ud83d\udd96",
+      "file": "glyphs/U+1F596.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128420,
+      "char": "\ud83d\udda4",
+      "file": "glyphs/U+1F5A4.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128421,
+      "char": "\ud83d\udda5",
+      "file": "glyphs/U+1F5A5.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128444,
+      "char": "\ud83d\uddbc",
+      "file": "glyphs/U+1F5BC.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128467,
+      "char": "\ud83d\uddd3",
+      "file": "glyphs/U+1F5D3.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128483,
+      "char": "\ud83d\udde3",
+      "file": "glyphs/U+1F5E3.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128506,
+      "char": "\ud83d\uddfa",
+      "file": "glyphs/U+1F5FA.png",
+      "width": 18,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128511,
+      "char": "\ud83d\uddff",
+      "file": "glyphs/U+1F5FF.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128512,
+      "char": "\ud83d\ude00",
+      "file": "glyphs/U+1F600.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128513,
+      "char": "\ud83d\ude01",
+      "file": "glyphs/U+1F601.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128514,
+      "char": "\ud83d\ude02",
+      "file": "glyphs/U+1F602.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128515,
+      "char": "\ud83d\ude03",
+      "file": "glyphs/U+1F603.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128516,
+      "char": "\ud83d\ude04",
+      "file": "glyphs/U+1F604.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128517,
+      "char": "\ud83d\ude05",
+      "file": "glyphs/U+1F605.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128518,
+      "char": "\ud83d\ude06",
+      "file": "glyphs/U+1F606.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128519,
+      "char": "\ud83d\ude07",
+      "file": "glyphs/U+1F607.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128520,
+      "char": "\ud83d\ude08",
+      "file": "glyphs/U+1F608.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128521,
+      "char": "\ud83d\ude09",
+      "file": "glyphs/U+1F609.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128522,
+      "char": "\ud83d\ude0a",
+      "file": "glyphs/U+1F60A.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128523,
+      "char": "\ud83d\ude0b",
+      "file": "glyphs/U+1F60B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128524,
+      "char": "\ud83d\ude0c",
+      "file": "glyphs/U+1F60C.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128525,
+      "char": "\ud83d\ude0d",
+      "file": "glyphs/U+1F60D.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128526,
+      "char": "\ud83d\ude0e",
+      "file": "glyphs/U+1F60E.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128527,
+      "char": "\ud83d\ude0f",
+      "file": "glyphs/U+1F60F.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128528,
+      "char": "\ud83d\ude10",
+      "file": "glyphs/U+1F610.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128529,
+      "char": "\ud83d\ude11",
+      "file": "glyphs/U+1F611.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128530,
+      "char": "\ud83d\ude12",
+      "file": "glyphs/U+1F612.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128531,
+      "char": "\ud83d\ude13",
+      "file": "glyphs/U+1F613.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128532,
+      "char": "\ud83d\ude14",
+      "file": "glyphs/U+1F614.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128533,
+      "char": "\ud83d\ude15",
+      "file": "glyphs/U+1F615.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128534,
+      "char": "\ud83d\ude16",
+      "file": "glyphs/U+1F616.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128535,
+      "char": "\ud83d\ude17",
+      "file": "glyphs/U+1F617.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128536,
+      "char": "\ud83d\ude18",
+      "file": "glyphs/U+1F618.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128537,
+      "char": "\ud83d\ude19",
+      "file": "glyphs/U+1F619.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128538,
+      "char": "\ud83d\ude1a",
+      "file": "glyphs/U+1F61A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128539,
+      "char": "\ud83d\ude1b",
+      "file": "glyphs/U+1F61B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128540,
+      "char": "\ud83d\ude1c",
+      "file": "glyphs/U+1F61C.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128541,
+      "char": "\ud83d\ude1d",
+      "file": "glyphs/U+1F61D.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128542,
+      "char": "\ud83d\ude1e",
+      "file": "glyphs/U+1F61E.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128543,
+      "char": "\ud83d\ude1f",
+      "file": "glyphs/U+1F61F.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128544,
+      "char": "\ud83d\ude20",
+      "file": "glyphs/U+1F620.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128545,
+      "char": "\ud83d\ude21",
+      "file": "glyphs/U+1F621.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128546,
+      "char": "\ud83d\ude22",
+      "file": "glyphs/U+1F622.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128547,
+      "char": "\ud83d\ude23",
+      "file": "glyphs/U+1F623.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128548,
+      "char": "\ud83d\ude24",
+      "file": "glyphs/U+1F624.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128549,
+      "char": "\ud83d\ude25",
+      "file": "glyphs/U+1F625.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128550,
+      "char": "\ud83d\ude26",
+      "file": "glyphs/U+1F626.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128551,
+      "char": "\ud83d\ude27",
+      "file": "glyphs/U+1F627.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128552,
+      "char": "\ud83d\ude28",
+      "file": "glyphs/U+1F628.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128553,
+      "char": "\ud83d\ude29",
+      "file": "glyphs/U+1F629.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128554,
+      "char": "\ud83d\ude2a",
+      "file": "glyphs/U+1F62A.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128555,
+      "char": "\ud83d\ude2b",
+      "file": "glyphs/U+1F62B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128556,
+      "char": "\ud83d\ude2c",
+      "file": "glyphs/U+1F62C.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128557,
+      "char": "\ud83d\ude2d",
+      "file": "glyphs/U+1F62D.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128558,
+      "char": "\ud83d\ude2e",
+      "file": "glyphs/U+1F62E.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128559,
+      "char": "\ud83d\ude2f",
+      "file": "glyphs/U+1F62F.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128560,
+      "char": "\ud83d\ude30",
+      "file": "glyphs/U+1F630.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128561,
+      "char": "\ud83d\ude31",
+      "file": "glyphs/U+1F631.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128562,
+      "char": "\ud83d\ude32",
+      "file": "glyphs/U+1F632.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128563,
+      "char": "\ud83d\ude33",
+      "file": "glyphs/U+1F633.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128564,
+      "char": "\ud83d\ude34",
+      "file": "glyphs/U+1F634.png",
+      "width": 16,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 128565,
+      "char": "\ud83d\ude35",
+      "file": "glyphs/U+1F635.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128566,
+      "char": "\ud83d\ude36",
+      "file": "glyphs/U+1F636.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128567,
+      "char": "\ud83d\ude37",
+      "file": "glyphs/U+1F637.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128568,
+      "char": "\ud83d\ude38",
+      "file": "glyphs/U+1F638.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128569,
+      "char": "\ud83d\ude39",
+      "file": "glyphs/U+1F639.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128570,
+      "char": "\ud83d\ude3a",
+      "file": "glyphs/U+1F63A.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128571,
+      "char": "\ud83d\ude3b",
+      "file": "glyphs/U+1F63B.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128572,
+      "char": "\ud83d\ude3c",
+      "file": "glyphs/U+1F63C.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128573,
+      "char": "\ud83d\ude3d",
+      "file": "glyphs/U+1F63D.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128574,
+      "char": "\ud83d\ude3e",
+      "file": "glyphs/U+1F63E.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128575,
+      "char": "\ud83d\ude3f",
+      "file": "glyphs/U+1F63F.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128576,
+      "char": "\ud83d\ude40",
+      "file": "glyphs/U+1F640.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128577,
+      "char": "\ud83d\ude41",
+      "file": "glyphs/U+1F641.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128578,
+      "char": "\ud83d\ude42",
+      "file": "glyphs/U+1F642.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128579,
+      "char": "\ud83d\ude43",
+      "file": "glyphs/U+1F643.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128580,
+      "char": "\ud83d\ude44",
+      "file": "glyphs/U+1F644.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128581,
+      "char": "\ud83d\ude45",
+      "file": "glyphs/U+1F645.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128583,
+      "char": "\ud83d\ude47",
+      "file": "glyphs/U+1F647.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128584,
+      "char": "\ud83d\ude48",
+      "file": "glyphs/U+1F648.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128585,
+      "char": "\ud83d\ude49",
+      "file": "glyphs/U+1F649.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128586,
+      "char": "\ud83d\ude4a",
+      "file": "glyphs/U+1F64A.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128587,
+      "char": "\ud83d\ude4b",
+      "file": "glyphs/U+1F64B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128588,
+      "char": "\ud83d\ude4c",
+      "file": "glyphs/U+1F64C.png",
+      "width": 19,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128591,
+      "char": "\ud83d\ude4f",
+      "file": "glyphs/U+1F64F.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128640,
+      "char": "\ud83d\ude80",
+      "file": "glyphs/U+1F680.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128663,
+      "char": "\ud83d\ude97",
+      "file": "glyphs/U+1F697.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128666,
+      "char": "\ud83d\ude9a",
+      "file": "glyphs/U+1F69A.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 128680,
+      "char": "\ud83d\udea8",
+      "file": "glyphs/U+1F6A8.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128681,
+      "char": "\ud83d\udea9",
+      "file": "glyphs/U+1F6A9.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128683,
+      "char": "\ud83d\udeab",
+      "file": "glyphs/U+1F6AB.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128684,
+      "char": "\ud83d\udeac",
+      "file": "glyphs/U+1F6AC.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 128694,
+      "char": "\ud83d\udeb6",
+      "file": "glyphs/U+1F6B6.png",
+      "width": 8,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 10
+    },
+    {
+      "codepoint": 128717,
+      "char": "\ud83d\udecd",
+      "file": "glyphs/U+1F6CD.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 128722,
+      "char": "\ud83d\uded2",
+      "file": "glyphs/U+1F6D2.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 128736,
+      "char": "\ud83d\udee0",
+      "file": "glyphs/U+1F6E0.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128737,
+      "char": "\ud83d\udee1",
+      "file": "glyphs/U+1F6E1.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129292,
+      "char": "\ud83e\udd0c",
+      "file": "glyphs/U+1F90C.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 129293,
+      "char": "\ud83e\udd0d",
+      "file": "glyphs/U+1F90D.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129294,
+      "char": "\ud83e\udd0e",
+      "file": "glyphs/U+1F90E.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129295,
+      "char": "\ud83e\udd0f",
+      "file": "glyphs/U+1F90F.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 129296,
+      "char": "\ud83e\udd10",
+      "file": "glyphs/U+1F910.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129297,
+      "char": "\ud83e\udd11",
+      "file": "glyphs/U+1F911.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129298,
+      "char": "\ud83e\udd12",
+      "file": "glyphs/U+1F912.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129299,
+      "char": "\ud83e\udd13",
+      "file": "glyphs/U+1F913.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129300,
+      "char": "\ud83e\udd14",
+      "file": "glyphs/U+1F914.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129301,
+      "char": "\ud83e\udd15",
+      "file": "glyphs/U+1F915.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129302,
+      "char": "\ud83e\udd16",
+      "file": "glyphs/U+1F916.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129303,
+      "char": "\ud83e\udd17",
+      "file": "glyphs/U+1F917.png",
+      "width": 19,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 129304,
+      "char": "\ud83e\udd18",
+      "file": "glyphs/U+1F918.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 129305,
+      "char": "\ud83e\udd19",
+      "file": "glyphs/U+1F919.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129306,
+      "char": "\ud83e\udd1a",
+      "file": "glyphs/U+1F91A.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129307,
+      "char": "\ud83e\udd1b",
+      "file": "glyphs/U+1F91B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129308,
+      "char": "\ud83e\udd1c",
+      "file": "glyphs/U+1F91C.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129309,
+      "char": "\ud83e\udd1d",
+      "file": "glyphs/U+1F91D.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129310,
+      "char": "\ud83e\udd1e",
+      "file": "glyphs/U+1F91E.png",
+      "width": 8,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 10
+    },
+    {
+      "codepoint": 129311,
+      "char": "\ud83e\udd1f",
+      "file": "glyphs/U+1F91F.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129312,
+      "char": "\ud83e\udd20",
+      "file": "glyphs/U+1F920.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129313,
+      "char": "\ud83e\udd21",
+      "file": "glyphs/U+1F921.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 129314,
+      "char": "\ud83e\udd22",
+      "file": "glyphs/U+1F922.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129315,
+      "char": "\ud83e\udd23",
+      "file": "glyphs/U+1F923.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129316,
+      "char": "\ud83e\udd24",
+      "file": "glyphs/U+1F924.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129317,
+      "char": "\ud83e\udd25",
+      "file": "glyphs/U+1F925.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129318,
+      "char": "\ud83e\udd26",
+      "file": "glyphs/U+1F926.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129319,
+      "char": "\ud83e\udd27",
+      "file": "glyphs/U+1F927.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129320,
+      "char": "\ud83e\udd28",
+      "file": "glyphs/U+1F928.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129321,
+      "char": "\ud83e\udd29",
+      "file": "glyphs/U+1F929.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129322,
+      "char": "\ud83e\udd2a",
+      "file": "glyphs/U+1F92A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129323,
+      "char": "\ud83e\udd2b",
+      "file": "glyphs/U+1F92B.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129324,
+      "char": "\ud83e\udd2c",
+      "file": "glyphs/U+1F92C.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129325,
+      "char": "\ud83e\udd2d",
+      "file": "glyphs/U+1F92D.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129326,
+      "char": "\ud83e\udd2e",
+      "file": "glyphs/U+1F92E.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129327,
+      "char": "\ud83e\udd2f",
+      "file": "glyphs/U+1F92F.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 129330,
+      "char": "\ud83e\udd32",
+      "file": "glyphs/U+1F932.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 129335,
+      "char": "\ud83e\udd37",
+      "file": "glyphs/U+1F937.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 129336,
+      "char": "\ud83e\udd38",
+      "file": "glyphs/U+1F938.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 129344,
+      "char": "\ud83e\udd40",
+      "file": "glyphs/U+1F940.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129346,
+      "char": "\ud83e\udd42",
+      "file": "glyphs/U+1F942.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 129351,
+      "char": "\ud83e\udd47",
+      "file": "glyphs/U+1F947.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129392,
+      "char": "\ud83e\udd70",
+      "file": "glyphs/U+1F970.png",
+      "width": 19,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 129393,
+      "char": "\ud83e\udd71",
+      "file": "glyphs/U+1F971.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129394,
+      "char": "\ud83e\udd72",
+      "file": "glyphs/U+1F972.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129395,
+      "char": "\ud83e\udd73",
+      "file": "glyphs/U+1F973.png",
+      "width": 20,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 129396,
+      "char": "\ud83e\udd74",
+      "file": "glyphs/U+1F974.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129397,
+      "char": "\ud83e\udd75",
+      "file": "glyphs/U+1F975.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 129398,
+      "char": "\ud83e\udd76",
+      "file": "glyphs/U+1F976.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 129399,
+      "char": "\ud83e\udd77",
+      "file": "glyphs/U+1F977.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129400,
+      "char": "\ud83e\udd78",
+      "file": "glyphs/U+1F978.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129401,
+      "char": "\ud83e\udd79",
+      "file": "glyphs/U+1F979.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129402,
+      "char": "\ud83e\udd7a",
+      "file": "glyphs/U+1F97A.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129411,
+      "char": "\ud83e\udd83",
+      "file": "glyphs/U+1F983.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 129413,
+      "char": "\ud83e\udd85",
+      "file": "glyphs/U+1F985.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129419,
+      "char": "\ud83e\udd8b",
+      "file": "glyphs/U+1F98B.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129473,
+      "char": "\ud83e\uddc1",
+      "file": "glyphs/U+1F9C1.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129488,
+      "char": "\ud83e\uddd0",
+      "file": "glyphs/U+1F9D0.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129499,
+      "char": "\ud83e\udddb",
+      "file": "glyphs/U+1F9DB.png",
+      "width": 16,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 129504,
+      "char": "\ud83e\udde0",
+      "file": "glyphs/U+1F9E0.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129505,
+      "char": "\ud83e\udde1",
+      "file": "glyphs/U+1F9E1.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129506,
+      "char": "\ud83e\udde2",
+      "file": "glyphs/U+1F9E2.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129528,
+      "char": "\ud83e\uddf8",
+      "file": "glyphs/U+1F9F8.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129535,
+      "char": "\ud83e\uddff",
+      "file": "glyphs/U+1F9FF.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129653,
+      "char": "\ud83e\ude75",
+      "file": "glyphs/U+1FA75.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129654,
+      "char": "\ud83e\ude76",
+      "file": "glyphs/U+1FA76.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129655,
+      "char": "\ud83e\ude77",
+      "file": "glyphs/U+1FA77.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129656,
+      "char": "\ud83e\ude78",
+      "file": "glyphs/U+1FA78.png",
+      "width": 7,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 9
+    },
+    {
+      "codepoint": 129668,
+      "char": "\ud83e\ude84",
+      "file": "glyphs/U+1FA84.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129705,
+      "char": "\ud83e\udea9",
+      "file": "glyphs/U+1FAA9.png",
+      "width": 26,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 28
+    },
+    {
+      "codepoint": 129719,
+      "char": "\ud83e\udeb7",
+      "file": "glyphs/U+1FAB7.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129725,
+      "char": "\ud83e\udebd",
+      "file": "glyphs/U+1FABD.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129728,
+      "char": "\ud83e\udec0",
+      "file": "glyphs/U+1FAC0.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 129730,
+      "char": "\ud83e\udec2",
+      "file": "glyphs/U+1FAC2.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129760,
+      "char": "\ud83e\udee0",
+      "file": "glyphs/U+1FAE0.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129761,
+      "char": "\ud83e\udee1",
+      "file": "glyphs/U+1FAE1.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 129762,
+      "char": "\ud83e\udee2",
+      "file": "glyphs/U+1FAE2.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129763,
+      "char": "\ud83e\udee3",
+      "file": "glyphs/U+1FAE3.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 129764,
+      "char": "\ud83e\udee4",
+      "file": "glyphs/U+1FAE4.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129765,
+      "char": "\ud83e\udee5",
+      "file": "glyphs/U+1FAE5.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129766,
+      "char": "\ud83e\udee6",
+      "file": "glyphs/U+1FAE6.png",
+      "width": 14,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 129767,
+      "char": "\ud83e\udee7",
+      "file": "glyphs/U+1FAE7.png",
+      "width": 17,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 129768,
+      "char": "\ud83e\udee8",
+      "file": "glyphs/U+1FAE8.png",
+      "width": 19,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 129769,
+      "char": "\ud83e\udee9",
+      "file": "glyphs/U+1FAE9.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129770,
+      "char": "\ud83e\udeea",
+      "file": "glyphs/U+1FAEA.png",
+      "width": 13,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 129776,
+      "char": "\ud83e\udef0",
+      "file": "glyphs/U+1FAF0.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129777,
+      "char": "\ud83e\udef1",
+      "file": "glyphs/U+1FAF1.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129778,
+      "char": "\ud83e\udef2",
+      "file": "glyphs/U+1FAF2.png",
+      "width": 12,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 129779,
+      "char": "\ud83e\udef3",
+      "file": "glyphs/U+1FAF3.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129780,
+      "char": "\ud83e\udef4",
+      "file": "glyphs/U+1FAF4.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129781,
+      "char": "\ud83e\udef5",
+      "file": "glyphs/U+1FAF5.png",
+      "width": 10,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 12
+    },
+    {
+      "codepoint": 129782,
+      "char": "\ud83e\udef6",
+      "file": "glyphs/U+1FAF6.png",
+      "width": 15,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 129783,
+      "char": "\ud83e\udef7",
+      "file": "glyphs/U+1FAF7.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    },
+    {
+      "codepoint": 129784,
+      "char": "\ud83e\udef8",
+      "file": "glyphs/U+1FAF8.png",
+      "width": 11,
+      "height": 11,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 13
+    }
+  ]
+}
